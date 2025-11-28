@@ -1,18 +1,23 @@
 class Solution {
 public:
     long long maxSubarraySum(vector<int>& nums, int k) {
-        map<int,set<long long>> mp;
-        mp[0].insert(0);
+        int n = nums.size();
+
+        vector<long long> prefix(k , LLONG_MAX);
+        prefix[0] = 0;
+
         long long sum = 0 , ans = LLONG_MIN;
-        for(int i = 0 ; i < nums.size() ; i++){
+
+        for(int i = 0 ; i < n ; i++){
+            int rem = (i+1)%k;
             sum += nums[i];
 
-            int rem = (i+1)%k;
-            if(mp.find(rem) != mp.end()){
-                ans = max(ans , sum - *mp[rem].begin());
+            if(prefix[rem] != LLONG_MAX){
+                ans = max(ans , sum-prefix[rem]);
             }
-            mp[rem].insert(sum);
+            prefix[rem] = min(prefix[rem] , sum);
         }
+
         return ans;
     }
 };
