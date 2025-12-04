@@ -52,4 +52,16 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
