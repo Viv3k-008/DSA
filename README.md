@@ -29,6 +29,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
@@ -55,6 +56,7 @@ Here , I will push the codes.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
