@@ -6,6 +6,7 @@ Here , I will push the codes.
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Binary Search
@@ -30,6 +31,7 @@ Here , I will push the codes.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
