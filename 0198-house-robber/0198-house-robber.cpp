@@ -7,14 +7,18 @@ public:
         if(dp[i] != -1) return dp[i];
 
         int op1 = fn(i+2 , nums , dp) + nums[i];
-
         int op2 = fn(i+1 , nums , dp);
 
         return dp[i] = max(op1 , op2);
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n , -1);
-        return fn(0 , nums , dp);
+        vector<int> dp(n+2 , 0);
+        
+        for(int i = n-1 ; i >= 0 ; i--){
+            dp[i] = max(dp[i+2]+nums[i] , dp[i+1]);
+        }
+
+        return dp[0];
     }
 };
