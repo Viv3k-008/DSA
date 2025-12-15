@@ -99,6 +99,7 @@ Here , I will push the codes.
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
@@ -112,4 +113,16 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
