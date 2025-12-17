@@ -25,30 +25,32 @@ public:
     }
     int calculateMinimumHP(vector<vector<int>>& grid) {
         n = grid.size() , m = grid[0].size();
-        vector<vector<int>> dp(n+1 , vector<int>(m+1 , 1e9));
+        // vector<vector<int>> dp(n+1 , vector<int>(m+1 , 1e9));
+        vector<int> cur(m+1 , 1e9) , next(m+1 , 1e9);
 
         for(int i = n-1 ; i >= 0 ; i--){
             for(int j = m-1 ; j >= 0 ; j--){
                 if(i == n-1 && j == m-1){
                     if(grid[i][j] <= 0){
-                        dp[i][j] = abs(grid[i][j])+1;
+                        cur[j] = abs(grid[i][j])+1;
                     }
-                    else dp[i][j] = 1;
+                    else cur[j] = 1;
                     continue;
                 }
 
-                int down = dp[i+1][j];
-                int right = dp[i][j+1];
+                int down = next[j];
+                int right = cur[j+1];
 
                 int req = min(down,right);
 
                 if(grid[i][j] >= req){
-                    dp[i][j] = 1;
+                    cur[j] = 1;
                 }
-                else dp[i][j] = req-grid[i][j];
+                else cur[j] = req-grid[i][j];
             }
+            next = cur;
         }
 
-        return dp[0][0];
+        return next[0];
     }
 };
