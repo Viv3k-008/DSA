@@ -22,23 +22,23 @@ public:
         int n = coins.size();
         dp.resize(n+1 , vector<int>(amount+1 , 1e9));
 
-        for(int i = 0 ; i <= n ; i++){
+        for(int i = 1 ; i <= n ; i++){
             dp[i][0] = 0;
         }
 
-        for(int i = n-1 ; i >= 0 ; i--){
+        for(int i = 1 ; i <= n ; i++){
             for(int am = 1 ; am <= amount; am++){
                 
                 int op1 = 1e9;
-                if(coins[i] <= am) op1 = 1 + dp[i][am-coins[i]];
+                if(coins[i-1] <= am) op1 = 1 + dp[i][am-coins[i-1]];
                 
-                int op2 = dp[i+1][am];
+                int op2 = dp[i-1][am];
 
                 dp[i][am] = min(op1 , op2);
             }
         }
 
-        int ans = dp[0][amount];
+        int ans = dp[n][amount];
         return (ans == 1e9)? -1 : ans;
 
     }
