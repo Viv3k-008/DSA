@@ -12,6 +12,7 @@ Here , I will push the codes.
 | [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -21,6 +22,7 @@ Here , I will push the codes.
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
 |  |
@@ -48,6 +50,7 @@ Here , I will push the codes.
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -133,4 +136,16 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
