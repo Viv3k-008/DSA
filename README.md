@@ -8,6 +8,7 @@ Here , I will push the codes.
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
@@ -27,6 +28,7 @@ Here , I will push the codes.
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ Here , I will push the codes.
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
