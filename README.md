@@ -7,6 +7,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
@@ -47,6 +48,7 @@ Here , I will push the codes.
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -93,6 +95,7 @@ Here , I will push the codes.
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -113,6 +116,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Depth-First Search
@@ -168,4 +172,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
