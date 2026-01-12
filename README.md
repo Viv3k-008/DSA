@@ -23,6 +23,7 @@ Here , I will push the codes.
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
+| [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Here , I will push the codes.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Stack
 |  |
 | ------- |
@@ -182,4 +186,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
