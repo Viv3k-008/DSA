@@ -38,7 +38,6 @@ public:
                 ans = max({ans , left[i][0] , left[i][1] , right[i][0] , right[i][1]});
 
                 // now we can remove one
-                // for <
                 if(nums[i-1] < nums[i+1]){
                     ans = max(ans , left[i-1][0]+right[i+1][1]);
                 }
