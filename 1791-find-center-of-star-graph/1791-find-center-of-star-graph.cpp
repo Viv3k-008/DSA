@@ -1,24 +1,12 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-        int n = edges.size()+1;
+       int u1 = edges[0][0] , v1 = edges[0][1];
+       int u2 = edges[1][0] , v2 = edges[1][1];
 
-        vector<int> indegree(n+1 , 0);
+       if(u1 == u2 || u1 == v2) return u1;
+       if(v1 == u2 || v1 == v2) return v1;
 
-        for(int i = 0 ; i < n-1 ; i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-
-            indegree[u]++;
-            indegree[v]++;
-        }
-
-        for(int i = 1 ; i <= n ; i++){
-            if(indegree[i] == n-1){
-                return i;
-            }
-        }
-
-        return -1;
+       return -1;
     }
 };
