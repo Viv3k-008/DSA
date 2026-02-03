@@ -3,18 +3,18 @@ public:
     int findCenter(vector<vector<int>>& edges) {
         int n = edges.size()+1;
 
-        vector<vector<int>> adj(n+1);
+        vector<int> indegree(n+1 , 0);
 
         for(int i = 0 ; i < n-1 ; i++){
             int u = edges[i][0];
             int v = edges[i][1];
 
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            indegree[u]++;
+            indegree[v]++;
         }
 
         for(int i = 1 ; i <= n ; i++){
-            if(adj[i].size() == n-1){
+            if(indegree[i] == n-1){
                 return i;
             }
         }
