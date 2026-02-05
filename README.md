@@ -24,6 +24,7 @@ Here , I will push the codes.
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
+| [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3637-trionic-array-i](https://github.com/Viv3k-008/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Viv3k-008/DSA/tree/master/3640-trionic-array-ii) |
@@ -115,6 +116,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
