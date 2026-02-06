@@ -27,6 +27,7 @@ Here , I will push the codes.
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Viv3k-008/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Viv3k-008/DSA/tree/master/3640-trionic-array-ii) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
@@ -46,6 +47,7 @@ Here , I will push the codes.
 | ------- |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Math
 |  |
@@ -186,6 +188,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Rolling Hash
 |  |
 | ------- |
