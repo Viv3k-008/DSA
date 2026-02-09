@@ -41,6 +41,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
@@ -153,6 +154,7 @@ Here , I will push the codes.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,10 +178,12 @@ Here , I will push the codes.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +191,7 @@ Here , I will push the codes.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,4 +226,8 @@ Here , I will push the codes.
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Viv3k-008/DSA/tree/master/1791-find-center-of-star-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
