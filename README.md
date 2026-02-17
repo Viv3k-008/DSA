@@ -158,6 +158,7 @@ Here , I will push the codes.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -169,6 +170,7 @@ Here , I will push the codes.
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -234,6 +236,7 @@ Here , I will push the codes.
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Viv3k-008/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Divide and Conquer
@@ -249,4 +252,12 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
