@@ -105,6 +105,7 @@ Here , I will push the codes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Viv3k-008/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
