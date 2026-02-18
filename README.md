@@ -80,6 +80,7 @@ Here , I will push the codes.
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3640-trionic-array-ii](https://github.com/Viv3k-008/DSA/tree/master/3640-trionic-array-ii) |
@@ -182,6 +183,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Here , I will push the codes.
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Viv3k-008/DSA/tree/master/1791-find-center-of-star-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,4 +263,5 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
