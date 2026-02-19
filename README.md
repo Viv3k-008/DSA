@@ -167,6 +167,7 @@ Here , I will push the codes.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -180,6 +181,7 @@ Here , I will push the codes.
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -250,6 +252,7 @@ Here , I will push the codes.
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Viv3k-008/DSA/tree/master/1791-find-center-of-star-graph) |
@@ -286,5 +289,6 @@ Here , I will push the codes.
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
