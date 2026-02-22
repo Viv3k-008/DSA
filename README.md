@@ -107,6 +107,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viv3k-008/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/Viv3k-008/DSA/tree/master/0868-binary-gap) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
