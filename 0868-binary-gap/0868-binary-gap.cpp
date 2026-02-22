@@ -16,16 +16,16 @@ public:
     int binaryGap(int n) {
         string s = bits(n);
 
-        stack<int> stk;
+        int prev = -1;
 
         int maxi = INT_MIN;
 
         for(int i = 0 ; i < s.size() ; i++){
-            if(!stk.empty() && s[i] == '1'){
-                maxi = max(maxi , i-stk.top());
+            if(prev != -1 && s[i] == '1'){
+                maxi = max(maxi , i-prev);
             }
 
-            if(s[i] == '1') stk.push(i);
+            if(s[i] == '1') prev = i;
         }
 
 
