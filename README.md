@@ -108,6 +108,7 @@ Here , I will push the codes.
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viv3k-008/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Viv3k-008/DSA/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
@@ -122,6 +123,7 @@ Here , I will push the codes.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -144,6 +146,7 @@ Here , I will push the codes.
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -231,10 +234,12 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Monotonic Stack
 |  |
 | ------- |
