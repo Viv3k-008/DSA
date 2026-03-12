@@ -336,4 +336,8 @@ Here , I will push the codes.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/Viv3k-008/DSA/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
