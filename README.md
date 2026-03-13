@@ -46,6 +46,7 @@ Here , I will push the codes.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Here , I will push the codes.
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -303,6 +305,7 @@ Here , I will push the codes.
 ## Segment Tree
 |  |
 | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -316,6 +319,7 @@ Here , I will push the codes.
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -331,14 +335,24 @@ Here , I will push the codes.
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Viv3k-008/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Database
 |  |
 | ------- |
 | [1193-monthly-transactions-i](https://github.com/Viv3k-008/DSA/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Viv3k-008/DSA/tree/master/1341-movie-rating) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
