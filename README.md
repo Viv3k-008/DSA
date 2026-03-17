@@ -190,6 +190,7 @@ Here , I will push the codes.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
@@ -233,6 +234,7 @@ Here , I will push the codes.
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Viv3k-008/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -249,6 +251,7 @@ Here , I will push the codes.
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Viv3k-008/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
