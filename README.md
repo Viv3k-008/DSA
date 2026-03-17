@@ -79,6 +79,7 @@ Here , I will push the codes.
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
@@ -187,6 +188,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
@@ -232,6 +234,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -249,6 +252,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
