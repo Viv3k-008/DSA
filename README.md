@@ -31,6 +31,7 @@ Here , I will push the codes.
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
@@ -183,6 +184,7 @@ Here , I will push the codes.
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
@@ -322,6 +324,7 @@ Here , I will push the codes.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
