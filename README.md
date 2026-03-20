@@ -37,6 +37,7 @@ Here , I will push the codes.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Viv3k-008/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Viv3k-008/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Viv3k-008/DSA/tree/master/3637-trionic-array-i) |
@@ -66,6 +67,7 @@ Here , I will push the codes.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Viv3k-008/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Math
@@ -194,6 +196,7 @@ Here , I will push the codes.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Viv3k-008/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Viv3k-008/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Depth-First Search
 |  |
 | ------- |
