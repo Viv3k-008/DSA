@@ -51,6 +51,7 @@ Here , I will push the codes.
 | [3640-trionic-array-ii](https://github.com/Viv3k-008/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Viv3k-008/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Viv3k-008/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Binary Search
 |  |
@@ -197,6 +198,7 @@ Here , I will push the codes.
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Viv3k-008/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
 | ------- |
