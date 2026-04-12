@@ -409,6 +409,7 @@ Here , I will push the codes.
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Viv3k-008/DSA/tree/master/0177-nth-highest-salary) |
 | [1193-monthly-transactions-i](https://github.com/Viv3k-008/DSA/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Viv3k-008/DSA/tree/master/1341-movie-rating) |
 ## Binary Indexed Tree
