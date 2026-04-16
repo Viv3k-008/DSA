@@ -92,6 +92,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -133,6 +134,7 @@ Here , I will push the codes.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -147,6 +149,7 @@ Here , I will push the codes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viv3k-008/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Viv3k-008/DSA/tree/master/0868-binary-gap) |
