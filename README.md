@@ -80,6 +80,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -174,6 +175,7 @@ Here , I will push the codes.
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
@@ -205,6 +207,7 @@ Here , I will push the codes.
 | [0001-two-sum](https://github.com/Viv3k-008/DSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Viv3k-008/DSA/tree/master/0904-fruit-into-baskets) |
