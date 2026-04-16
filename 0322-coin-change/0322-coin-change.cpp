@@ -1,45 +1,33 @@
 class Solution {
 public:
+    
     vector<vector<int>> dp;
-    // int fn(int i , vector<int>& coins , int am){
-    //     if(i >= coins.size()){
-    //         if(am == 0){
-    //             return 0;
-    //         }
-    //         return 1e9;
-    //     }
-    //     if(am == 0) return 0;
-    //     else if(am < 0) return 1e9; 
+    int fn(int i , int amount , vector<int>& coins){
+        if(i == coins.size()-1){
+            if(amount%coins[i] == 0){
+                return amount/coins[i];
+            }
+            else return 1e9;
+        }
 
-    //     if(dp[i][am] != -1) return dp[i][am];
+        if(amount == 0) return 0;
+        else if(amount < 0) return INT_MAX;
 
-    //     int op1 = 1 + fn(i , coins , am-coins[i]);
-    //     int op2 = fn(i+1 , coins , am);
+        if(dp[i][amount] != -1) return dp[i][amount];
 
-    //     return dp[i][am] = min(op1 , op2);
-    // }
+        int op1 = 1e9;
+        if(coins[i] <= amount) op1 = 1 + fn(i , amount-coins[i] , coins);
+        int op2 = fn(i+1 , amount , coins);
+
+        return dp[i][amount] = min(op1 , op2);
+    }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        dp.resize(n+1 , vector<int>(amount+1 , 1e9));
 
-        for(int i = 1 ; i <= n ; i++){
-            dp[i][0] = 0;
-        }
+        dp.assign(n , vector<int>(amount+1 , -1));
+        
+        int ans = fn(0 , amount , coins);
 
-        for(int i = 1 ; i <= n ; i++){
-            for(int am = 1 ; am <= amount; am++){
-                
-                int op1 = 1e9;
-                if(coins[i-1] <= am) op1 = 1 + dp[i][am-coins[i-1]];
-                
-                int op2 = dp[i-1][am];
-
-                dp[i][am] = min(op1 , op2);
-            }
-        }
-
-        int ans = dp[n][amount];
-        return (ans == 1e9)? -1 : ans;
-
+        return ans >= 1e9? -1 : ans;
     }
 };
