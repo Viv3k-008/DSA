@@ -97,6 +97,7 @@ Here , I will push the codes.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
@@ -109,6 +110,7 @@ Here , I will push the codes.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
@@ -449,4 +451,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
