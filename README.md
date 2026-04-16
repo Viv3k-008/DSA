@@ -114,6 +114,7 @@ Here , I will push the codes.
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
@@ -178,6 +179,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
