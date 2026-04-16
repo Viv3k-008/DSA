@@ -114,6 +114,7 @@ Here , I will push the codes.
 | [0300-longest-increasing-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Viv3k-008/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -146,6 +147,7 @@ Here , I will push the codes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viv3k-008/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Viv3k-008/DSA/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Viv3k-008/DSA/tree/master/1009-complement-of-base-10-integer) |
