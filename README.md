@@ -8,6 +8,7 @@ Here , I will push the codes.
 | ------- |
 | [0001-two-sum](https://github.com/Viv3k-008/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Viv3k-008/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
@@ -79,6 +80,7 @@ Here , I will push the codes.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Viv3k-008/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
