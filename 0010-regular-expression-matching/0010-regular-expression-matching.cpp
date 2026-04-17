@@ -1,10 +1,11 @@
 class Solution {
 public:
-    bool fn(int i , int j , string& s , string& p){
+    bool fn(int i , int j , string& s , string& p , vector<vector<int>>& dp){
         if(j == p.size()){
             return i == s.size();
         }
-
+        
+        if(dp[i][j] != -1) return dp[i][j];
 
         bool take = false , notTake = false , firstCharMatch = false;
 
@@ -13,16 +14,19 @@ public:
         }
 
         if(j+1 < p.size() && p[j+1] == '*'){
-            take = firstCharMatch && fn(i+1 , j , s , p);
-            notTake = fn(i , j+2 , s , p);
+            take = firstCharMatch && fn(i+1 , j , s , p , dp);
+            notTake = fn(i , j+2 , s , p , dp);
 
-            return take || notTake;
+            return dp[i][j] = take || notTake;
         }
 
-        return firstCharMatch && fn(i+1 , j+1 , s , p);
+        return dp[i][j] = firstCharMatch && fn(i+1 , j+1 , s , p , dp);
     }
     bool isMatch(string s, string p) {
         
-        return fn(0 , 0 , s , p);
+        int n = s.size() , m = p.size();
+
+        vector<vector<int>> dp(n+1 , vector<int>(m+1 , -1));
+        return fn(0 , 0 , s , p , dp);
     }
 };
