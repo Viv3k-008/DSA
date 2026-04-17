@@ -113,6 +113,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
@@ -155,6 +156,7 @@ Here , I will push the codes.
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -188,6 +190,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
