@@ -1,38 +1,40 @@
 class Solution {
 public:
-    vector<string> ans;
-    void fn(int i , string &s , vector<string>& wordDict , string temp , string store , unordered_map<string,int>& mp){
-        if(i == s.size()){
-            if(mp.count(temp)){
-                if(store.size() == 0) store = temp;
-                else store = store + " " + temp;
-                ans.push_back(store);
+    unordered_map<int, vector<string>> dp;
+
+    vector<string> solve(int i, string &s, unordered_set<string> &st) {
+        // if already computed
+        if(dp.count(i)) return dp[i];
+
+        vector<string> res;
+
+        // reached end
+        if(i == s.size()) {
+            res.push_back("");
+            return res;
+        }
+
+        string temp = "";
+
+        for(int j = i; j < s.size(); j++) {
+            temp += s[j];
+
+            // if word found
+            if(st.count(temp)) {
+                vector<string> next = solve(j + 1, s, st);
+
+                for(string x : next) {
+                    if(x == "") res.push_back(temp);
+                    else res.push_back(temp + " " + x);
+                }
             }
-            return;
         }
 
-        // op1 
-        if(mp.count(temp)){
-            string newStore;
-            if(store.size() == 0) newStore = temp;
-            else newStore = store + " " + temp;
-
-            fn(i, s, wordDict, "", newStore, mp);
-        }
-
-        // op2
-        fn(i+1 , s , wordDict , temp+s[i] , store , mp);
+        return dp[i] = res;
     }
+
     vector<string> wordBreak(string s, vector<string>& wordDict) {
-        int n = wordDict.size();
-        unordered_map<string,int> mp;
-
-        for(int i = 0 ; i < n ; i++){
-            mp[wordDict[i]]++;
-        }
-
-        fn(0 , s , wordDict , "" , "" , mp);
-
-        return ans;
+        unordered_set<string> st(wordDict.begin(), wordDict.end());
+        return solve(0, s, st);
     }
 };
