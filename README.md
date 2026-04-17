@@ -111,6 +111,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
@@ -183,6 +184,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
@@ -203,6 +205,7 @@ Here , I will push the codes.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Viv3k-008/DSA/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
