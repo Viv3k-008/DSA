@@ -466,6 +466,7 @@ Here , I will push the codes.
 | [0181-employees-earning-more-than-their-managers](https://github.com/Viv3k-008/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Viv3k-008/DSA/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Viv3k-008/DSA/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/Viv3k-008/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/Viv3k-008/DSA/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/Viv3k-008/DSA/tree/master/1341-movie-rating) |
 | [1965-employees-with-missing-information](https://github.com/Viv3k-008/DSA/tree/master/1965-employees-with-missing-information) |
