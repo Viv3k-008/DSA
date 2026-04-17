@@ -4,6 +4,8 @@ public:
         if(j == p.size()){
             return i == s.size();
         }
+
+        // we are not checking i == s.size() , coz rest of p elements after j index can be zero due to "*" . As we can get answer with the notTake part
         
         if(dp[i][j] != -1) return dp[i][j];
 
