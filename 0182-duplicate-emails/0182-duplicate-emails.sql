@@ -1,4 +1,3 @@
-select email
-from Person
-group by email
-having count(*) > 1
+select distinct email
+from Person group by email
+having count(*) > 1;
