@@ -21,6 +21,7 @@ Here , I will push the codes.
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Viv3k-008/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Viv3k-008/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -403,6 +404,7 @@ Here , I will push the codes.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Viv3k-008/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
