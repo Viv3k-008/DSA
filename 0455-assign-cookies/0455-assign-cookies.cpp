@@ -4,22 +4,18 @@ public:
         int n = g.size();
 
         sort(g.begin() , g.end());
-        priority_queue<int , vector<int> , greater<int>> pq;
+        sort(s.begin() , s.end());
 
         int cnt = 0;
-        for(int i = 0 ; i < s.size() ; i++){
-            pq.push(s[i]);
-        }
 
-
+        int j = 0;
         for(int i = 0 ; i < n ; i++){
-            while(!pq.empty() && (g[i] > pq.top())){
-                pq.pop();
+            while(j < s.size() && g[i] > s[j]){
+                j++;
             }
-
-            if(!pq.empty() && g[i] <= pq.top()) {
-                pq.pop();
+            if(j < s.size() && g[i] <= s[j]){
                 cnt++;
+                j++;
             }
         }
 
