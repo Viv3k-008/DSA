@@ -201,6 +201,7 @@ Here , I will push the codes.
 | [0076-minimum-window-substring](https://github.com/Viv3k-008/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Viv3k-008/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Viv3k-008/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
@@ -404,6 +405,7 @@ Here , I will push the codes.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Viv3k-008/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Viv3k-008/DSA/tree/master/3643-flip-square-submatrix-vertically) |
