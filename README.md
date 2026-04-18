@@ -7,6 +7,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viv3k-008/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Viv3k-008/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0064-minimum-path-sum) |
@@ -404,6 +405,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Viv3k-008/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
