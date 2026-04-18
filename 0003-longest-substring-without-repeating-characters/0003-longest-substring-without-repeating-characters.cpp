@@ -5,16 +5,16 @@ public:
 
         unordered_map<char,int> mp;
 
-        int l = 0 , maxi = 0;
-        for(int r = 0 ; r < n ; r++){
-            if(mp.count(s[r])){
-                if(mp[s[r]] >= l) l = mp[s[r]]+1;
+        int l = 0 , ans = 0;
+        for(int i = 0 ; i < n ; i++){
+            if(mp.count(s[i])){
+                if(mp[s[i]] >= l) l = mp[s[i]]+1;
             }
 
-            maxi = max(maxi , r-l+1);
-            mp[s[r]] = r;
+            ans = max(ans , i-l+1);
+            mp[s[i]] = i;
         }
 
-        return maxi;
+        return ans;
     }
 };
