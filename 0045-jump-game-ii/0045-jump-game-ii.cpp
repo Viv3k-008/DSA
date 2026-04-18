@@ -3,6 +3,8 @@ public:
     int jump(vector<int>& nums) {
         int n = nums.size();
 
+        if(n <= 1) return 0;
+
         int maxRange = 0 , curEnd = 0 , jumps = 0;
 
         for(int i = 0 ; i < n ; i++){
@@ -13,9 +15,9 @@ public:
                 curEnd = maxRange;
             }
 
-            if(maxRange >= n-1) break;
+            if(curEnd >= n-1) break;
         }
 
-        return jumps+1;
+        return jumps;
     }
 };
