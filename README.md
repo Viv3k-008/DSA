@@ -126,6 +126,7 @@ Here , I will push the codes.
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Viv3k-008/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
