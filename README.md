@@ -228,6 +228,7 @@ Here , I will push the codes.
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
@@ -323,6 +324,7 @@ Here , I will push the codes.
 | [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Viv3k-008/DSA/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
@@ -351,6 +353,7 @@ Here , I will push the codes.
 | [0200-number-of-islands](https://github.com/Viv3k-008/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
@@ -383,6 +386,7 @@ Here , I will push the codes.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Viv3k-008/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -406,6 +410,7 @@ Here , I will push the codes.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Viv3k-008/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -524,6 +529,7 @@ Here , I will push the codes.
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
