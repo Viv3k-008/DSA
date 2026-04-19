@@ -311,6 +311,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
@@ -332,6 +333,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
@@ -358,6 +360,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
@@ -377,6 +380,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Viv3k-008/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
