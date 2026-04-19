@@ -11,33 +11,27 @@
  */
 class Solution {
 public:
-    unordered_map<TreeNode*,int> mp;
-    void fn(TreeNode* root){
-        if(root == NULL) return;
+    unordered_map<TreeNode*,int> dp;
+    void dfs(TreeNode* root){
+        if(!root) return;
 
-        fn(root->left);
-        fn(root->right);
+        dfs(root->left);
+        dfs(root->right);
 
         int take = root->val;
-        if(root->left){
-            if(root->left->left) take += mp[root->left->left];
-            if(root->left->right) take += mp[root->left->right];
-        }
-        if(root->right){
-            if(root->right->left) take += mp[root->right->left];
-            if(root->right->right) take += mp[root->right->right];
-        }
+        if(root->left) take += dp[root->left->left] + dp[root->left->right];
+        if(root->right) take += dp[root->right->left] + dp[root->right->right];
 
         int notTake = 0;
-        if(root->left) notTake += mp[root->left];
-        if(root->right) notTake += mp[root->right];
+        if(root->left) notTake += dp[root->left];
+        if(root->right) notTake += dp[root->right];
 
-        mp[root] = max(take,notTake);
+
+        dp[root] = max(take , notTake);
     }
     int rob(TreeNode* root) {
-        if(!root) return 0;
-        fn(root);
+        dfs(root);
 
-        return mp[root];
+        return dp[root];
     }
 };
