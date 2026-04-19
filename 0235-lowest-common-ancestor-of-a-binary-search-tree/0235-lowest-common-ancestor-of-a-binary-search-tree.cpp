@@ -10,26 +10,27 @@
 
 class Solution {
 public:
-    bool fn(TreeNode* root , TreeNode* p , TreeNode* q , TreeNode*& lca){
-        if(!root) return false;
+    void fn(TreeNode* root , TreeNode* p , TreeNode* q , TreeNode*& lca){
+        if(!root) return;
 
-        bool op1 = fn(root->left , p , q , lca);
-        bool op2 = fn(root->right , p , q , lca);
-
-        if((root == p || root == q) && (op1 || op2)){
-            lca = root;
+        if(root->val < p->val){
+            fn(root->right , p , q , lca);
         }
-        else if(op1 && op2){
-            lca = root;
+        else if(root->val > q->val){
+            fn(root->left , p , q , lca);
         }
-
-        if(root == p || root == q) return true;
-
-        return op1 || op2;
+        else lca = root;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* lca = NULL;
+        TreeNode* temp = NULL;
 
+        if(p->val > q->val){
+            temp = p;
+            p = q;
+            q = temp;
+        }
+
+        TreeNode* lca = NULL;
         fn(root , p , q , lca);
 
         return lca;
