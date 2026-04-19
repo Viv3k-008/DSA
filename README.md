@@ -318,6 +318,7 @@ Here , I will push the codes.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Viv3k-008/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
@@ -344,6 +345,7 @@ Here , I will push the codes.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Viv3k-008/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
@@ -365,6 +367,7 @@ Here , I will push the codes.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Tree
@@ -454,6 +457,7 @@ Here , I will push the codes.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Viv3k-008/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Viv3k-008/DSA/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
