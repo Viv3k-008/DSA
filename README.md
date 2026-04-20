@@ -31,6 +31,7 @@ Here , I will push the codes.
 | [0300-longest-increasing-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Viv3k-008/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Viv3k-008/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -493,12 +494,14 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Viv3k-008/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
@@ -543,6 +546,7 @@ Here , I will push the codes.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Database
 |  |
@@ -559,6 +563,7 @@ Here , I will push the codes.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Ordered Set
 |  |
