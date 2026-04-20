@@ -3,14 +3,18 @@ public:
     vector<int> prefSum;
     NumArray(vector<int>& nums) {
         int n = nums.size();
-        prefSum.resize(n,0);
+        prefSum.resize(n);
+
         for(int i = 0 ; i < n ; i++){
-            prefSum[i] = (i == 0)? nums[i] : nums[i]+prefSum[i-1];
+            prefSum[i] = i == 0? nums[i] : prefSum[i-1]+nums[i];
         }
     }
     
     int sumRange(int left, int right) {
-        return (left == 0) ? prefSum[right] : prefSum[right]-prefSum[left-1];
+        if(left != 0){
+            return prefSum[right]-prefSum[left-1];
+        }
+        else return prefSum[right];
     }
 };
 
