@@ -39,6 +39,7 @@ Here , I will push the codes.
 | [0416-partition-equal-subset-sum](https://github.com/Viv3k-008/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Viv3k-008/DSA/tree/master/0733-flood-fill) |
@@ -170,6 +171,7 @@ Here , I will push the codes.
 | [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Viv3k-008/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Viv3k-008/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -204,6 +206,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Bit Manipulation
