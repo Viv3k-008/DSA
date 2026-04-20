@@ -40,6 +40,7 @@ Here , I will push the codes.
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Viv3k-008/DSA/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Viv3k-008/DSA/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/Viv3k-008/DSA/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +169,7 @@ Here , I will push the codes.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/Viv3k-008/DSA/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Viv3k-008/DSA/tree/master/0799-champagne-tower) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
