@@ -202,6 +202,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -636,4 +637,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Viv3k-008/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
