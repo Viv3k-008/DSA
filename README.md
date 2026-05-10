@@ -202,6 +202,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
@@ -642,6 +643,7 @@ Here , I will push the codes.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Merge Sort
