@@ -20,6 +20,7 @@ Here , I will push the codes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viv3k-008/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Viv3k-008/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
@@ -167,6 +168,7 @@ Here , I will push the codes.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Viv3k-008/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Viv3k-008/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Viv3k-008/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Viv3k-008/DSA/tree/master/0213-house-robber-ii) |
