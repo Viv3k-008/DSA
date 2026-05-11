@@ -292,6 +292,7 @@ Here , I will push the codes.
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Viv3k-008/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Viv3k-008/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
@@ -515,6 +516,7 @@ Here , I will push the codes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Viv3k-008/DSA/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
@@ -648,6 +650,7 @@ Here , I will push the codes.
 | [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Merge Sort
 |  |
 | ------- |
