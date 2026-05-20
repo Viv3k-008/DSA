@@ -182,6 +182,7 @@ Here , I will push the codes.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Viv3k-008/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Viv3k-008/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
@@ -262,6 +263,7 @@ Here , I will push the codes.
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Viv3k-008/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
@@ -529,6 +531,7 @@ Here , I will push the codes.
 | [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Viv3k-008/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viv3k-008/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
