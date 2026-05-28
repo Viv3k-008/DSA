@@ -38,7 +38,7 @@ public:
 
         int ans = n;
         if (increasing) {
-            ans = min(minIdx, 2 + n - minIdx);
+            ans = min(minIdx, 2 + n - minIdx);   // 2+n-minIdx -> first reverse(+1) then decreasing then zero will move to n-minIdx then that much left shift will be required to make it proper decreasing then again reverse(+1) for getting sorted in increasing order
         } else
             ans = min(1 + n - minIdx, 1 + minIdx);
 
