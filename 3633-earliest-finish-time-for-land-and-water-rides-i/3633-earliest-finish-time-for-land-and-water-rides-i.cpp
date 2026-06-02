@@ -5,6 +5,7 @@ public:
 
         vector<int> land(n) , water(m);
 
+        // finding total time for both land and water tour
         for(int i = 0 ; i < n ; i++){
             land[i] = (landStartTime[i]+landDuration[i]);
         }
@@ -12,25 +13,36 @@ public:
             water[i] = (waterStartTime[i]+waterDuration[i]);
         }
 
-        int mini = INT_MAX;
+        // now checking all posibilities
+
+        int ans = INT_MAX;
+
+        // 1-> land tour first
+        int minLand = INT_MAX;
         for(int i = 0 ; i < n ; i++){
-            for(int j = 0 ; j < m ; j++){
-                if(land[i] >= waterStartTime[j]){
-                    mini = min(mini , land[i]+waterDuration[j]);
-                }
-                else mini = min(mini , water[j]);
-            }
+            minLand = min(minLand , land[i]);
         }
 
-        for(int j = 0 ; j < m ; j++){
-            for(int i = 0 ; i < n ; i++){
-                if(water[j] >= landStartTime[i]){
-                    mini = min(mini , water[j]+landDuration[i]);
-                }
-                else mini = min(mini , land[i]);
+        for(int i = 0 ; i < m ; i++){
+            if(minLand >= waterStartTime[i]){
+                ans = min(ans , minLand+waterDuration[i]);
             }
+            else ans = min(ans , water[i]);
         }
 
-        return mini;
+        // 2-> water tour first
+        int minWater = INT_MAX;
+        for(int i = 0 ; i < m ; i++){
+            minWater = min(minWater , water[i]);
+        }
+
+        for(int i = 0 ; i < n ; i++){
+            if(minWater >= landStartTime[i]){
+                ans = min(ans , minWater+landDuration[i]);
+            }
+            else ans = min(ans , land[i]);
+        }
+
+        return ans;
     }
 };
