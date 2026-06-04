@@ -160,6 +160,7 @@ Here , I will push the codes.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viv3k-008/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Viv3k-008/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -219,6 +220,7 @@ Here , I will push the codes.
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Viv3k-008/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Viv3k-008/DSA/tree/master/3640-trionic-array-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -542,6 +544,7 @@ Here , I will push the codes.
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Two Pointers
 |  |
