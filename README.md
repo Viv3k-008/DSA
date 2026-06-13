@@ -168,6 +168,7 @@ Here , I will push the codes.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viv3k-008/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Viv3k-008/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -431,6 +432,7 @@ Here , I will push the codes.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Viv3k-008/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Here , I will push the codes.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
