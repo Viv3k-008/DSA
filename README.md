@@ -111,6 +111,7 @@ Here , I will push the codes.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -224,6 +225,7 @@ Here , I will push the codes.
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -267,6 +269,7 @@ Here , I will push the codes.
 | [1009-complement-of-base-10-integer](https://github.com/Viv3k-008/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -435,6 +438,7 @@ Here , I will push the codes.
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Viv3k-008/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viv3k-008/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -466,6 +470,7 @@ Here , I will push the codes.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Viv3k-008/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -502,6 +507,7 @@ Here , I will push the codes.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viv3k-008/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -673,6 +679,7 @@ Here , I will push the codes.
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Database
 |  |
