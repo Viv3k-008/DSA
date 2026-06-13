@@ -98,6 +98,7 @@ Here , I will push the codes.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Viv3k-008/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Viv3k-008/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
+| [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +304,7 @@ Here , I will push the codes.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Viv3k-008/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
+| [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Here , I will push the codes.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Viv3k-008/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
