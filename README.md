@@ -593,6 +593,7 @@ Here , I will push the codes.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viv3k-008/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viv3k-008/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Viv3k-008/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viv3k-008/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -736,6 +737,7 @@ Here , I will push the codes.
 | [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viv3k-008/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
