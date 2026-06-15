@@ -5,11 +5,12 @@ public:
 
         int ans = 1;
         for(int i = 0 ; i < n ; i++){
+
             unordered_map<int,int> mp;
             map<int,int> freq;
             for(int j = i ; j < n ; j++){
-               
-                if(mp.count(nums[j]) && freq.count(mp[nums[j]])){
+
+                if(freq.count(mp[nums[j]])){
                     freq[mp[nums[j]]]--;
                     if(freq[mp[nums[j]]] == 0){
                         freq.erase(mp[nums[j]]);
@@ -30,6 +31,7 @@ public:
                 else if(mp.size() == 1){
                     ans = max(ans , j-i+1);
                 }
+
             }
         }
 
