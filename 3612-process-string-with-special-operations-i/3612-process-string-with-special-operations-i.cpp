@@ -6,7 +6,7 @@ public:
         int n = s.size();
         for(int i = 0 ; i < n ; i++){
             if(s[i] == '*'){
-                if(ans.size() >= 1) ans.pop_back();
+                if(!ans.empty()) ans.pop_back();
             }
             else if(s[i] == '#'){
                 ans += ans;
