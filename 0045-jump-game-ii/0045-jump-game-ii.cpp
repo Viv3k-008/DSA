@@ -5,19 +5,21 @@ public:
 
         if(n <= 1) return 0;
 
-        int maxRange = 0 , curEnd = 0 , jumps = 0;
+        int end = 0 , maxRange = 0 , steps = 0;
 
         for(int i = 0 ; i < n ; i++){
             maxRange = max(maxRange , i+nums[i]);
 
-            if(i == curEnd){
-                jumps++;
-                curEnd = maxRange;
+            if(i == end){
+                steps++;
+                end = maxRange;
             }
 
-            if(curEnd >= n-1) break;
+            if(end >= n-1){
+                break;
+            }
         }
 
-        return jumps;
+        return steps;
     }
 };
