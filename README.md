@@ -65,6 +65,7 @@ Here , I will push the codes.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Viv3k-008/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -148,6 +149,7 @@ Here , I will push the codes.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -166,6 +168,7 @@ Here , I will push the codes.
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
