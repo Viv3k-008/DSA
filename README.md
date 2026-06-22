@@ -304,6 +304,7 @@ Here , I will push the codes.
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
@@ -360,6 +361,7 @@ Here , I will push the codes.
 | [0904-fruit-into-baskets](https://github.com/Viv3k-008/DSA/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
@@ -379,6 +381,7 @@ Here , I will push the codes.
 | ------- |
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Viv3k-008/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
