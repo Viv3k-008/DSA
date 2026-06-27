@@ -301,6 +301,7 @@ Here , I will push the codes.
 | [0132-palindrome-partitioning-ii](https://github.com/Viv3k-008/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Viv3k-008/DSA/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Viv3k-008/DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -357,6 +358,7 @@ Here , I will push the codes.
 | [0169-majority-element](https://github.com/Viv3k-008/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Viv3k-008/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Viv3k-008/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Viv3k-008/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0433-minimum-genetic-mutation](https://github.com/Viv3k-008/DSA/tree/master/0433-minimum-genetic-mutation) |
