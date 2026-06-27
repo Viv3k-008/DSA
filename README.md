@@ -21,6 +21,7 @@ Here , I will push the codes.
 | [0120-triangle](https://github.com/Viv3k-008/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viv3k-008/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Viv3k-008/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Viv3k-008/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -347,6 +348,7 @@ Here , I will push the codes.
 | [0041-first-missing-positive](https://github.com/Viv3k-008/DSA/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Viv3k-008/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Viv3k-008/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Viv3k-008/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Viv3k-008/DSA/tree/master/0141-linked-list-cycle) |
@@ -688,6 +690,7 @@ Here , I will push the codes.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Viv3k-008/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Viv3k-008/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Viv3k-008/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
