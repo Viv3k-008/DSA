@@ -5,13 +5,13 @@ public:
 
         sort(arr.begin(),arr.end());
 
-        int max = 0;
+        int maxi = 0;
         for(int i = 0 ; i < n ; i++){
-            if(max+1 <= arr[i]){
-                max++;
+            if(maxi+1 <= arr[i]){
+                maxi++;
             }
         }
 
-        return max;
+        return maxi;
     }
 };
