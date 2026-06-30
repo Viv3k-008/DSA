@@ -9,7 +9,7 @@ public:
             int rightCnt = 0 , leftCnt = 0;
             mp[s[r]]++;
             if(mp['a']&&mp['b']&&mp['c']){
-                rightCnt = n-r;
+                rightCnt = n-r-1;
 
                 while(mp['a']&&mp['b']&&mp['c']){
                     leftCnt++;
@@ -17,10 +17,10 @@ public:
                     if(mp[s[l]] == 0) mp.erase(s[l]);
                     l++;
                 }
-                cout<<leftCnt<<" "<<rightCnt<<" "<<leftCnt*rightCnt<<endl;
+                
             }
 
-            ans += leftCnt*rightCnt;
+            ans += leftCnt + leftCnt*rightCnt;
         }
 
         return ans;
