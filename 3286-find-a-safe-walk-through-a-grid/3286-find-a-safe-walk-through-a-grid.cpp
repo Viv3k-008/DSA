@@ -1,42 +1,39 @@
 class Solution {
 public:
-    int inf = 1e9;
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int n = grid.size() , m = grid[0].size();
 
-        vector<vector<int>> dist(n , vector<int>(m , inf));
-        dist[0][0] = grid[0][0];
+        int di[4] = {1, -1, 0, 0};
+        int dj[4] = {0, 0, -1, 1};
 
-        priority_queue<pair<int,pair<int,int>> , vector<pair<int,pair<int,int>>> , greater<pair<int,pair<int,int>>>> pq;
+        queue<pair<int,pair<int,int>>> q;
+        vector<vector<int>> dp(n , vector<int>(m , -1e9));
 
-        pq.push({dist[0][0],{0,0}});
+        q.push({health-grid[0][0],{0,0}});
+        dp[0][0] = health-grid[0][0];
 
-        int di[] = {-1 , 1 , 0 , 0};
-        int dj[] = {0 , 0 , -1 , 1};
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
 
-        while(!pq.empty()){
-            int curi = pq.top().second.first;
-            int curj = pq.top().second.second;
-            int curHealth = pq.top().first;
-            pq.pop();
+            int h = it.first;
+            int curi = it.second.first;
+            int curj = it.second.second;
+
+            if(curi == n-1 && curj == m-1 && h >= 1) return true;
 
             for(int k = 0 ; k < 4 ; k++){
                 int newi = curi+di[k];
                 int newj = curj+dj[k];
 
-                if(newi < 0 || newj < 0 || newi >= n || newj >= m){
+                if(newi < 0 || newi >= n || newj < 0 || newj >= m || (h-grid[newi][newj]) < 1 || (h-grid[newi][newj]) <= dp[newi][newj]){
                     continue;
                 }
-                if(curHealth + grid[newi][newj] < dist[newi][newj]){
-                    dist[newi][newj] = curHealth+grid[newi][newj];
-                    pq.push({dist[newi][newj],{newi,newj}});
-                }
+                dp[newi][newj] = h-grid[newi][newj];
+                q.push({dp[newi][newj],{newi,newj}});
             }
         }
 
-        int reqHealth = dist[n-1][m-1];
-        if(reqHealth < health) return true;
-        else return false;
+        return false;
     }
 };
