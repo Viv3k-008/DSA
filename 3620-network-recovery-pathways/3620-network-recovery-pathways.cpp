@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Used Dijkstra's to check here, but we can use DFS+DP also which is more optimal but if in question asked it not not a DAG then this solution will be only optimal.
     bool check(int mini, int n, vector<vector<pair<int,int>>>& adj, long long k){
         priority_queue<vector<long long>, vector<vector<long long>> , greater<vector<long long>>> pq;
        
