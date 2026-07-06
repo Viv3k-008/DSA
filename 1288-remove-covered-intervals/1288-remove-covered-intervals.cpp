@@ -5,14 +5,13 @@ public:
         else if(a[0] == b[0]){
             return a[1] > b[1];
         }
-
         return false;
     }
     int removeCoveredIntervals(vector<vector<int>>& interval) {
         int n = interval.size();
 
         sort(interval.begin(),interval.end(),comp);
-        vector<vector<int>> final;
+        int ans = 0;
         int st = -1, ed = -1;
 
         for(int i = 0 ; i < n ; i++){
@@ -22,20 +21,19 @@ public:
             if(st == -1 && ed == -1){
                 st = curSt;
                 ed = curEd;
+                ans++;
                 continue;
             }
             else if(curSt >= st && curEd <= ed){
                 continue;
             }
             else {
-                final.push_back({st,ed});
+                ans++;
                 st = curSt;
                 ed = curEd;
             }
         }
 
-        final.push_back({st,ed});
-
-        return final.size();
+        return ans;
     }
 };
