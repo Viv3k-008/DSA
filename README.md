@@ -192,6 +192,7 @@ Here , I will push the codes.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viv3k-008/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Viv3k-008/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Viv3k-008/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
