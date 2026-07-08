@@ -1,57 +1,61 @@
 class Solution {
 public:
-    int mod = 1e9+7;
+    int MOD = 1e9+7;
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        int size = s.size();
-        vector<long long> prefixStr(size);
-        vector<long long> prefixCnt(size);
-        vector<long long> prefixSum(size);
-        vector<long long> powTen;
-        long long cur = 10;
-        for(int i = 0 ; i < size ; i++){
-            powTen.push_back(cur);
-            cur = (cur*10)%mod;
-        }
-        int i = 0;
-        long long str = 0 , cnt = 0 , sum = 0;
-        for(char c : s){
-            if(c == '0'){
-                prefixStr[i] = str;
-                prefixCnt[i] = cnt;
-                prefixSum[i] = sum;
-                i++;
-                continue;
-            }
-            str = (str*10)%mod + c-'0';
-            cnt++;
-            prefixStr[i] = str;
-            prefixCnt[i] = cnt;
-            sum = (sum + c-'0')%mod;
-            prefixSum[i] = sum;
-            i++;
+        int n = s.size();
+
+        vector<long long> pow(n);
+        for(int i = 0 ; i < n ; i++){
+            if(i == 0) pow[i] = 10;
+            else pow[i] = ((pow[i-1])%MOD*10)%MOD;
         }
 
-        int n = queries.size();
-        vector<int> ans;
+        vector<long long> prefixSum(n), prefixLen(n), prefixStr(n);
+        long long sum = 0, str = 0, len = 0;
+
         for(int i = 0 ; i < n ; i++){
-            int f = queries[i][0] , s = queries[i][1];
-            if(f == 0){
-                int curAns = ((int)prefixStr[s]*prefixSum[s])%mod;
-                ans.push_back(curAns);
+            long long val = (long long)(s[i]-'0');
+
+            if(val == 0){
+                prefixStr[i] = str;
+                prefixSum[i] = sum;
+                prefixLen[i] = len;
             }
             else {
-                
-                int diff = prefixCnt[s] - prefixCnt[f-1];
-                long long total = prefixStr[s] , partial = prefixStr[f-1];
-                int toBeMinus = (diff == 0)? partial : (partial*powTen[diff-1])%mod;
-                long long curStr = (long long) (total - toBeMinus + mod)%mod;
-                int curSum = (int) (prefixSum[s]-prefixSum[f-1]);
-                long long curAns = ((long long)curStr*curSum)%mod;
-                ans.push_back((int) curAns);
+                str = (str * 10)%MOD;
+                str = (str+val)%MOD;
+                prefixStr[i] = str;
+                sum = (sum+val)%MOD;
+                prefixSum[i] = sum;
+                len++;
+                prefixLen[i] = len;
+            }
+        }
+
+        vector<int> ans;
+        int m = queries.size();
+        for(int i = 0 ; i < m ; i++){
+            int l = queries[i][0];
+            int r = queries[i][1];
+
+            long long curAns = 0;
+            if(l == 0){
+                curAns = ((prefixStr[r])*(prefixSum[r]))%MOD;
+                ans.push_back((int)curAns);
+            }
+            else{
+                long long incNum = prefixStr[r], exclNum = prefixStr[l-1], xLen = (prefixLen[r] - prefixLen[l-1]);
+                int querySum = (int)(prefixSum[r] - prefixSum[l-1]);
+
+                int toBeMinus = (exclNum%MOD  * ((xLen == 0)? 1 : pow[xLen-1])%MOD)%MOD;
+
+                int reqNum = (int)(incNum - toBeMinus + MOD)%MOD;
+
+                curAns = ((long long)reqNum * querySum)%MOD;
+                ans.push_back((int)curAns);
             }
         }
 
         return ans;
-        
     }
 };
