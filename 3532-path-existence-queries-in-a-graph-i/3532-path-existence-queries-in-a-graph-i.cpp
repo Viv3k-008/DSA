@@ -44,7 +44,8 @@ class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
         vector<vector<int>> edges;
-
+        DisjointSetUnion dsu(n);
+        
         int l = 0, r = 1;
         while(r < n){
             if(l == r){
@@ -52,19 +53,12 @@ public:
             }
             else{
                 if((nums[r]-nums[l]) <= maxDiff){
-                    edges.push_back({l,r});
+                    if(!dsu.find(l,r)){
+                        dsu.UnionNode(l,r);
+                    }
                     r++;
                 }
                 else l++;
-            }
-        }
-
-        DisjointSetUnion dsu(n);
-        for(int i = 0 ; i < edges.size() ; i++){
-            int u = edges[i][0], v = edges[i][1];
-
-            if(!dsu.find(u,v)){
-                dsu.UnionNode(u,v);
             }
         }
 
