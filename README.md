@@ -59,6 +59,7 @@ Here , I will push the codes.
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -247,6 +248,7 @@ Here , I will push the codes.
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Viv3k-008/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
