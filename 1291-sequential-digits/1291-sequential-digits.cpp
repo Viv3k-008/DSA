@@ -10,18 +10,18 @@ public:
         bool done = false;
 
         for(int i = n ; i <= m ; i++){
-            char ed = (10-i)+'0';
-            for(char c = '1' ; c <= ed ; c++){
-                string temp = "";
-                char ch = c;
+            int ed = (10-i);
+            for(int c = 1 ; c <= ed ; c++){
+                int cur = 0;
+                int d = c;
                 for(int len = 0 ; len < i ; len++){
-                    temp += ch;
-                    ch += 1;
+                    cur *= 10;
+                    cur += d;
+                    d += 1;
                 }
 
-                int num = stoi(temp);
-                if(num >= low && num <= high) ans.push_back(num);
-                if(num > high){
+                if(cur >= low && cur <= high) ans.push_back(cur);
+                if(cur > high){
                     done = true;
                     break;
                 }
