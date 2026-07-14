@@ -10,10 +10,8 @@ public:
     }
     int fn(int i, int n, int gcd1, int gcd2, vector<int>& nums, vector<vector<vector<int>>>& dp){
         if(i == n){
-            if(gcd1 != 0 && gcd2 != 0){
-                if(gcd1 == gcd2){
-                    return 1;
-                }
+            if(gcd1 == gcd2 && gcd1 != 0){
+                return 1;
             }
             return 0;
         }
