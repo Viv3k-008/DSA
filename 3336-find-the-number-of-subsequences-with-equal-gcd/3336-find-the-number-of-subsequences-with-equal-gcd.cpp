@@ -31,7 +31,7 @@ public:
 
         int skip = fn(i+1, n, gcd1, gcd2, nums, dp);
 
-        return dp[i][gcd1][gcd2] = (1LL*op1+op2+skip)%MOD;
+        return dp[i][gcd1][gcd2] = ((long long)op1+op2+skip)%MOD;
 
     }
     int subsequencePairCount(vector<int>& nums) {
