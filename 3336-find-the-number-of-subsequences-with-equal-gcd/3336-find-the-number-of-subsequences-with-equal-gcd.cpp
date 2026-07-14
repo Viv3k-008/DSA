@@ -1,11 +1,12 @@
 class Solution {
 public:
     int MOD = 1e9+7;
-    int findGCD(int a, int b) {
-        if (b == 0) {
+    int findGCD(int a, int b){
+        if(b == 0){
             return a;
         }
-        return findGCD(b, a % b);
+
+        return findGCD(b, a%b);
     }
     int fn(int i, int n, int gcd1, int gcd2, vector<int>& nums, vector<vector<vector<int>>>& dp){
         if(i == n){
