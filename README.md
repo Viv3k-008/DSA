@@ -93,6 +93,7 @@ Here , I will push the codes.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Viv3k-008/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Viv3k-008/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viv3k-008/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Viv3k-008/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Viv3k-008/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -198,6 +199,7 @@ Here , I will push the codes.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viv3k-008/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Viv3k-008/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viv3k-008/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -263,6 +265,7 @@ Here , I will push the codes.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Viv3k-008/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viv3k-008/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -839,4 +842,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Viv3k-008/DSA/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
