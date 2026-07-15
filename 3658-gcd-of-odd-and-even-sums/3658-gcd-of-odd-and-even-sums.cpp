@@ -9,7 +9,7 @@ public:
     }
     int gcdOfOddEvenSums(int n) {
         int evenSum = n*(n+1);
-        int oddSum = n*2*(n*2+1)/2 - n*(n+1);
+        int oddSum = 2*n*(2*n+1)/2 - n*(n+1);  // after simplifying it will be n*n
 
         return gcd(evenSum, oddSum);
     }
