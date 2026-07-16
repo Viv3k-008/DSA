@@ -117,6 +117,7 @@ Here , I will push the codes.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Viv3k-008/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Here , I will push the codes.
 | [3634-minimum-removals-to-balance-array](https://github.com/Viv3k-008/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viv3k-008/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Here , I will push the codes.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Viv3k-008/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Viv3k-008/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,6 +379,7 @@ Here , I will push the codes.
 | [3612-process-string-with-special-operations-i](https://github.com/Viv3k-008/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Viv3k-008/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -669,6 +673,7 @@ Here , I will push the codes.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viv3k-008/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Viv3k-008/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -848,4 +853,5 @@ Here , I will push the codes.
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Viv3k-008/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Viv3k-008/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
