@@ -12,7 +12,7 @@ public:
 
         vector<int> gcd(n);
 
-        long long maxi = 0;
+        long long maxi = LLONG_MIN;
         for(int i = 0 ; i < n ; i++){
             maxi = max(maxi, 1LL*nums[i]);
 
