@@ -48,7 +48,11 @@ public:
                     ridx++;
                 }
 
-                ans = max(ans, ridx-lidx + prefZero[lidx-1]+suffZero[ridx] + prefOne[lidx-1]+prefOne[n-1]-prefOne[ridx-1]);
+                int currentConsecutuiveOnes = ridx-lidx;
+                int totalCntOfConsecutiveZeroesLeftandRight = prefZero[lidx-1]+suffZero[ridx];
+                int totalCntOfOnesLeftandRight = prefOne[lidx-1]+prefOne[n-1]-prefOne[ridx-1];
+
+                ans = max(ans, currentConsecutuiveOnes + totalCntOfConsecutiveZeroesLeftandRight + totalCntOfOnesLeftandRight);
 
                 i = ridx-1;
             }
