@@ -889,4 +889,5 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Viv3k-008/DSA/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Viv3k-008/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
