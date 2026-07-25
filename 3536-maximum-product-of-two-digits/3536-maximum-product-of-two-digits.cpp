@@ -16,6 +16,6 @@ public:
             }
         }
 
-        return int(fh*sh);
+        return (fh*sh);
     }
 };
