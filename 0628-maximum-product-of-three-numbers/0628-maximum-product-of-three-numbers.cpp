@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        int n = nums.size();
 
         int posFirst = INT_MIN, posSecond = INT_MIN, posThird = INT_MIN;
         int negFirst = INT_MAX, negSecond = INT_MAX, negThird = INT_MAX;
