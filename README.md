@@ -903,6 +903,7 @@ Here , I will push the codes.
 | ------- |
 | [1114-print-in-order](https://github.com/Viv3k-008/DSA/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/Viv3k-008/DSA/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/Viv3k-008/DSA/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Viv3k-008/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Viv3k-008/DSA/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
