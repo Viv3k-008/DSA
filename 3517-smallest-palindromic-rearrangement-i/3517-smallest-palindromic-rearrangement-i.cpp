@@ -10,25 +10,24 @@ public:
             alphaLeft[s[i]-'a']++;
         }
 
-        string ans = "";
-
+        int idx = 0;
         for(int i = 0 ; i < 26 ; i++){
             if(alphaLeft[i] != 0){
                 while(alphaLeft[i]--){
-                    ans += i+'a';
+                    s[idx++] = i+'a';
                 }
             }
         }
 
-        string temp = ans;
-        reverse(temp.begin(),temp.end());
 
         if(n%2){
-            ans += s[n/2];
+            s[idx++] = s[n/2];
         }
 
-        ans += temp;
+        for(int i = idx ; i < n ; i++){
+            s[i] = s[n-i-1];
+        }
 
-        return ans;
+        return s;
     }
 };
