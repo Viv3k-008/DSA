@@ -194,6 +194,7 @@ Here , I will push the codes.
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Viv3k-008/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Viv3k-008/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -383,6 +384,7 @@ Here , I will push the codes.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Viv3k-008/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Viv3k-008/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Viv3k-008/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Viv3k-008/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -907,4 +909,8 @@ Here , I will push the codes.
 | [1117-building-h2o](https://github.com/Viv3k-008/DSA/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Viv3k-008/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Viv3k-008/DSA/tree/master/1226-the-dining-philosophers) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
