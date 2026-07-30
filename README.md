@@ -165,6 +165,7 @@ Here , I will push the codes.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Viv3k-008/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viv3k-008/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -219,6 +220,7 @@ Here , I will push the codes.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Viv3k-008/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Viv3k-008/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viv3k-008/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Viv3k-008/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -379,6 +381,7 @@ Here , I will push the codes.
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Viv3k-008/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Viv3k-008/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Viv3k-008/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Viv3k-008/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Viv3k-008/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
