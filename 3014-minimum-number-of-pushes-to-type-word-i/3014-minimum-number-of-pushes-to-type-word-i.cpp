@@ -3,15 +3,11 @@ public:
     int minimumPushes(string word) {
         int n = word.size();
 
-        int idx = 0, count = 0, add = 1;;
-        while(idx < n){
-            for(int i = 0 ; i < 8 ; i++){
-                count += add;
-                idx++;
-                if(idx == n) break;
-            }
-            if(idx == n) break;
-            add++;
+        int count = 0, add = 1;
+        
+        for(int i = 0 ; i < n ; i++){
+            count += add;
+            if((i+1)%8 == 0) add++;
         }
 
         return count;
