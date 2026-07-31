@@ -1,28 +1,27 @@
 class Solution {
 public:
-    static bool comp(pair<char,int>& a, pair<char,int>& b){
-        return a.second > b.second;
-    }
+
     int minimumPushes(string word) {
         int n = word.size();
 
         int count = 0, alphaCnt = 0, add = 1;
 
-        vector<pair<char,int>> vec;
+        vector<int> freq(1e5+1,0);
 
-        unordered_map<char,int> mp;
-        for(char c : word) mp[c]++;
+        vector<int> alpha(26,0);
+        for(char c : word) alpha[c-'a']++;
 
-        for(auto it : mp) vec.push_back(it);
+        for(int c : alpha) freq[c]++;
 
-        sort(vec.begin(),vec.end(),comp);
+        vector<int> freqWord;
 
-        for(pair<char,int> it : vec){
-            alphaCnt++;
 
-            count += it.second*add;
-
-            if(alphaCnt%8 == 0) add++;
+        for(int i = 1e5 ; i > 0 ; i--){
+            while(freq[i]--){
+                alphaCnt++;
+                count += i*add;
+                if(alphaCnt%8 == 0) add++;
+            }
         }
         return count;
     }
