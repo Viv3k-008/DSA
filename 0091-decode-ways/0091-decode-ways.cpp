@@ -11,7 +11,7 @@ public:
         if(dp[i] != -1) return dp[i];
 
         int op1 = 0, op2 = 0;
-        if(0 < num1 && num1 <= 26){
+        if(0 < num1){
             op1 = fn(i+1, n, s);
         }
         if(10 <= num2 && num2 <= 26){
