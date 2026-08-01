@@ -1,32 +1,32 @@
 class Solution {
 public:
-    int fn(int i , int j , vector<int>& nums , vector<vector<int>>& dp){
-        if(i > j){
-            return 0;
+    vector<vector<int>> dp;
+    int fn(int l, int r, vector<int>& nums){
+        if(l >= r-1) return 0;
+
+        if(dp[l][r] != -1) return dp[l][r];
+
+        int cost = -1e9;
+        for(int k = l+1 ; k < r ; k++){
+            int cur = nums[l]*nums[k]*nums[r];
+
+            cost = max(cur+fn(l, k, nums)+fn(k, r, nums) , cost);
         }
 
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int maxi = INT_MIN;
-        for(int k = i ; k <= j ; k++){
-            int cost = nums[i-1]*nums[k]*nums[j+1] + fn(i , k-1 , nums , dp) + fn(k+1 , j , nums , dp);
-
-            maxi = max(maxi , cost);
-        }
-
-        return dp[i][j] = maxi;
-
+        return dp[l][r] = cost;
     }
-    int maxCoins(vector<int>& num) {
-        int n = num.size();
+    int maxCoins(vector<int>& arr) {
+        int n = arr.size();
 
-        vector<int> nums;
-        nums.push_back(1);
-        for(int i : num) nums.push_back(i);
-        nums.push_back(1);
+        vector<int> nums(n+2);
+        nums[0] = 1, nums[n+1] = 1;
 
-        vector<vector<int>> dp(n+1 , vector<int>(n+1 , -1));
+        for(int i = 1 ; i < n+1 ; i++){
+            nums[i] = arr[i-1];
+        }
 
-        return fn(1 , n , nums , dp);
+        dp.resize(n+2, vector<int>(n+2, -1));
+        return fn(0, n+1, nums);
+        
     }
 };
