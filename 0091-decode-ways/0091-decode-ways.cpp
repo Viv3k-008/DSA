@@ -1,33 +1,30 @@
 class Solution {
 public:
-    int cnt = 0;
     vector<int> dp;
-    int fn(int i , string& s){
-        if(i == s.size()){
-            return 1;
-        }
-        else if(s[i] == '0'){
-            return 0;
-        }
-        if(dp[i] != -1) return dp[i];
+    int fn(int i, int n, string& s){
+        if(i == n) return 1;
        
-        int op1 = fn(i+1 , s);
-        int op2 = 0;
-        if(i+1 < s.size()){
-            string temp = "";
-            temp += s[i];
-            temp += s[i+1];
+        int num1 = s[i]-'0';
+        int num2 = 27;
+        if(i < n-1) num2 = (s[i]-'0')*10 + (s[i+1]-'0');
+        
+        if(dp[i] != -1) return dp[i];
 
-            int num = stoi(temp);
-            if(num <= 26){
-                op2 = fn(i+2 , s);
-            }
+        int op1 = 0, op2 = 0;
+        if(0 < num1 && num1 <= 26){
+            op1 = fn(i+1, n, s);
         }
+        if(10 <= num2 && num2 <= 26){
+            op2 = fn(i+2, n, s);
+        }
+      
 
-        return dp[i] = op1+op2;
+        return dp[i] = op1 + op2;
     }
     int numDecodings(string s) {
-        dp.resize(s.size(),-1);
-        return fn(0 , s);
+        int n = s.size();
+
+        dp.resize(n, -1);
+        return fn(0, n, s);
     }
 };
