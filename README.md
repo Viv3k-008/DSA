@@ -47,6 +47,7 @@ Here , I will push the codes.
 | [0416-partition-equal-subset-sum](https://github.com/Viv3k-008/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Viv3k-008/DSA/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -212,6 +213,7 @@ Here , I will push the codes.
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -274,6 +276,7 @@ Here , I will push the codes.
 | [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Viv3k-008/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Viv3k-008/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -310,6 +313,7 @@ Here , I will push the codes.
 | [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -921,4 +925,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
