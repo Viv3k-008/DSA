@@ -22,6 +22,7 @@ Here , I will push the codes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viv3k-008/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Viv3k-008/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Viv3k-008/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -261,6 +262,7 @@ Here , I will push the codes.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Viv3k-008/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Viv3k-008/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Viv3k-008/DSA/tree/master/0174-dungeon-game) |
@@ -319,6 +321,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Viv3k-008/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
@@ -367,6 +370,7 @@ Here , I will push the codes.
 | [0125-valid-palindrome](https://github.com/Viv3k-008/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Viv3k-008/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Viv3k-008/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Viv3k-008/DSA/tree/master/0290-word-pattern) |
@@ -432,6 +436,7 @@ Here , I will push the codes.
 | [0127-word-ladder](https://github.com/Viv3k-008/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Viv3k-008/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Viv3k-008/DSA/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Viv3k-008/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Viv3k-008/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -864,6 +869,7 @@ Here , I will push the codes.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Viv3k-008/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
