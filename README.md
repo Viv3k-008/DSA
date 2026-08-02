@@ -66,6 +66,7 @@ Here , I will push the codes.
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Viv3k-008/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Viv3k-008/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Viv3k-008/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -300,6 +301,7 @@ Here , I will push the codes.
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Viv3k-008/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Viv3k-008/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Viv3k-008/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
