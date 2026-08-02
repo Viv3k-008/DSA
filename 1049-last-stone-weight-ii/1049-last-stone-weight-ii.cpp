@@ -1,33 +1,31 @@
 class Solution {
 public:
-    unordered_map<int, int> memo;
-    
-    int dp(int i, int curSum, vector<int>& stones, int half, 
-           vector<vector<int>>& memo){
-        if(i == stones.size() || curSum == half){
+    vector<vector<int>> dp;
+    int fn(int i, int n, int curSum, int target, vector<int>& nums){
+        if(i == n || curSum == target){
             return curSum;
         }
-        if(memo[i][curSum] != -1) return memo[i][curSum];
-        
-        int op1 = -1e9; 
-        
-        if(curSum + stones[i] <= half){
-            op1 = dp(i+1, curSum + stones[i], stones, half, memo); 
+
+        if(dp[i][curSum] != -1) return dp[i][curSum];
+
+        int op1 = -1e9;
+        if((curSum + nums[i]) <= target){
+            op1 = fn(i+1, n, curSum+nums[i], target, nums);
         }
-        int op2 = dp(i+1, curSum, stones, half, memo); 
-        
-        return memo[i][curSum] = max(op1, op2);
+
+        int op2 = fn(i+1, n, curSum, target, nums);
+
+        return dp[i][curSum] = max(op1, op2);
     }
-    
     int lastStoneWeightII(vector<int>& stones) {
-        int total = accumulate(stones.begin(), stones.end(), 0);
-        int half = total / 2;
         int n = stones.size();
-        
-        vector<vector<int>> memo(n, vector<int>(half + 1, -1));
-        
-        int s1 = dp(0, 0, stones, half, memo);
-        
-        return total - 2 * s1;
+
+        int total = 0;
+        for(int i : stones) total += i;
+
+        dp.resize(n, vector<int>(total/2+1, -1));
+        int sum = fn(0, n, 0, total/2, stones);
+
+        return (total-sum) - sum;
     }
 };
