@@ -223,6 +223,7 @@ Here , I will push the codes.
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -287,6 +288,7 @@ Here , I will push the codes.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Viv3k-008/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Viv3k-008/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Viv3k-008/DSA/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/Viv3k-008/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
@@ -958,6 +960,7 @@ Here , I will push the codes.
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
@@ -965,6 +968,7 @@ Here , I will push the codes.
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
