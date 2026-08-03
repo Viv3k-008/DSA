@@ -80,6 +80,7 @@ Here , I will push the codes.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viv3k-008/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -228,6 +229,7 @@ Here , I will push the codes.
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Viv3k-008/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -309,6 +311,7 @@ Here , I will push the codes.
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Viv3k-008/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
@@ -952,12 +955,15 @@ Here , I will push the codes.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
