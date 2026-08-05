@@ -311,6 +311,7 @@ Here , I will push the codes.
 | [0799-champagne-tower](https://github.com/Viv3k-008/DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Viv3k-008/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Viv3k-008/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -411,6 +412,7 @@ Here , I will push the codes.
 | [0664-strange-printer](https://github.com/Viv3k-008/DSA/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Viv3k-008/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Viv3k-008/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
@@ -818,6 +820,7 @@ Here , I will push the codes.
 | [0303-range-sum-query-immutable](https://github.com/Viv3k-008/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Viv3k-008/DSA/tree/master/2574-left-and-right-sum-differences) |
