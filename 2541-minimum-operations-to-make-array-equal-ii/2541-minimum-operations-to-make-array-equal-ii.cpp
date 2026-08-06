@@ -18,22 +18,15 @@ public:
             return 0;
         }
 
-        long long total = 0, ans = 0;
+        long long ans = 0;
         for(int i = 0 ; i < n ; i++){
-            if(nums1[i] > nums2[i]){
-                if(nums1[i]%k != nums2[i]%k) return -1;
-                long long diff = nums1[i]-nums2[i];
-                ans += diff/k;
-                total += diff;
-            }
-            else if(nums1[i] < nums2[i]){
-                if(nums1[i]%k != nums2[i]%k) return -1;
-                long long diff = nums2[i]-nums1[i];
-                
-                ans += diff/k;
-                total -= diff;
-            }
-            cout<<total<<endl;
+            long long diff = nums1[i]-nums2[i];
+            
+            if(diff == 0) continue;
+            else if(nums1[i]%k != nums2[i]%k) return -1;
+
+            ans += abs(diff)/k;
+         
         }
 
         return ans/2;
