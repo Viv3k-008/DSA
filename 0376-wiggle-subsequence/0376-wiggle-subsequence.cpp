@@ -5,6 +5,9 @@ public:
 
         vector<int> dp1(n, 1), dp2(n, 1);
 
+        // dp1 -> stores the max length of sequence when number is taking next element as greater
+        // dp2 -> stores the max length of sequence when number is taking next element as smaller
+
         int ans = INT_MIN;
 
         for(int i = n-1; i >= 0; i--){
@@ -22,7 +25,7 @@ public:
                 }
             }
 
-            ans = max(dp1[i],dp2[i]);
+            ans = max({ans, dp1[i], dp2[i]});
         }
 
         return ans;
