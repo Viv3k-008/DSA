@@ -82,6 +82,7 @@ Here , I will push the codes.
 | [1331-rank-transform-of-an-array](https://github.com/Viv3k-008/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viv3k-008/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +181,7 @@ Here , I will push the codes.
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -388,6 +390,7 @@ Here , I will push the codes.
 | [0868-binary-gap](https://github.com/Viv3k-008/DSA/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Viv3k-008/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -508,6 +511,7 @@ Here , I will push the codes.
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Viv3k-008/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Viv3k-008/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
