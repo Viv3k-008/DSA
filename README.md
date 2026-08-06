@@ -61,6 +61,7 @@ Here , I will push the codes.
 | [0741-cherry-pickup](https://github.com/Viv3k-008/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
+| [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/Viv3k-008/DSA/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +178,7 @@ Here , I will push the codes.
 | [0376-wiggle-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
+| [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Viv3k-008/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -206,6 +208,7 @@ Here , I will push the codes.
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Viv3k-008/DSA/tree/master/0721-accounts-merge) |
+| [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Viv3k-008/DSA/tree/master/1288-remove-covered-intervals) |
@@ -780,6 +783,7 @@ Here , I will push the codes.
 | [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viv3k-008/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
