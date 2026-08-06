@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int wiggleMaxLength(vector<int>& nums) {
+        int n = nums.size();
+
+        vector<int> dp1(n, 1), dp2(n, 1);
+
+        int ans = INT_MIN;
+
+        for(int i = n-1; i >= 0; i--){
+            // greater
+            for(int k = i+1; k < n ; k++){
+                if(nums[i] < nums[k]){
+                   dp1[i] = max(dp1[i], 1+dp2[k]);
+                }
+            }
+
+            // lower
+            for(int k = i+1; k < n ; k++){
+                if(nums[i] > nums[k]){
+                    dp2[i] = max(dp2[i], 1+dp1[k]);
+                }
+            }
+
+            ans = max(dp1[i],dp2[i]);
+        }
+
+        return ans;
+    }
+};
