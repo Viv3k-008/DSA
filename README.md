@@ -89,6 +89,7 @@ Here , I will push the codes.
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -178,6 +179,7 @@ Here , I will push the codes.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
