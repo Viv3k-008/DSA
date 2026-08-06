@@ -3,23 +3,19 @@ public:
     int jump(vector<int>& nums) {
         int n = nums.size();
 
-        if(n <= 1) return 0;
+        vector<int> dp(n, 1e9);
 
-        int end = 0 , maxRange = 0 , steps = 0;
+        dp[n-1] = 0;
+        for(int i = n-1; i >= 0 ; i--){
+            if(i == n-1) continue;
 
-        for(int i = 0 ; i < n ; i++){
-            maxRange = max(maxRange , i+nums[i]);
+           for(int k = 1 ; k <= nums[i]; k++){
+            dp[i] = min(dp[i], 1+dp[min(n-1,i+k)]);
+           }
 
-            if(i == end){
-                steps++;
-                end = maxRange;
-            }
-
-            if(end >= n-1){
-                break;
-            }
+           dp[i] = min(dp[i], 1+dp[i+1]);
         }
 
-        return steps;
+        return dp[0];
     }
 };
