@@ -13,7 +13,7 @@ public:
         return prod%t == 0;
     }
     int smallestNumber(int n, int t) {
-        for(int i = n; i <= 100; i++){
+        for(int i = n; i <= n+10; i++){
             if(check(i, t)){
                 return i;
             }
