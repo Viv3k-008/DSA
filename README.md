@@ -106,6 +106,7 @@ Here , I will push the codes.
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Viv3k-008/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -166,6 +167,7 @@ Here , I will push the codes.
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
+| [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Viv3k-008/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Viv3k-008/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -196,6 +198,7 @@ Here , I will push the codes.
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
@@ -362,6 +365,7 @@ Here , I will push the codes.
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viv3k-008/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Viv3k-008/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -860,6 +864,7 @@ Here , I will push the codes.
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
+| [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Viv3k-008/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Viv3k-008/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
