@@ -103,6 +103,7 @@ Here , I will push the codes.
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Viv3k-008/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -194,6 +195,7 @@ Here , I will push the codes.
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
@@ -229,6 +231,7 @@ Here , I will push the codes.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
