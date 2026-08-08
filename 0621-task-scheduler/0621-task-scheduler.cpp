@@ -8,17 +8,14 @@ public:
             }
             if(val != -1) turn[val] = n;
     }
-    struct comp {
-        bool operator()(const pair<int,int>& a,const pair<int,int>& b) const {
-            return a.second > b.second;
-        }
-    };
+    static bool comp(const pair<int,int> a,const pair<int,int> b) {
+        return a.second > b.second;
+    }
 
-multiset<pair<int,int>, comp> alpha;
     int leastInterval(vector<char>& tasks, int n) {
         // A -> B -> IDLE -> IDLE -> A -> B -> IDLE -> IDLE -> A -> B
 
-        multiset<pair<int,int>, comp> alpha;
+        multiset<pair<int,int>, decltype(&comp)> alpha(comp);
 
         unordered_map<int,int> cur;
 
@@ -54,12 +51,12 @@ multiset<pair<int,int>, comp> alpha;
             }
             if(notFound){
                 ans++;
-                reduce(turn, n, -1);      // 26 rounds
+                reduce(turn, n, -1);
                 continue;
             }
 
             ans++;
-            reduce(turn, n, val);         // 26 rounds
+            reduce(turn, n, val);
         }
 
         return ans;
