@@ -3,17 +3,17 @@ public:
     int partitionString(string s) {
         int n = s.size();
 
-        unordered_map<char,int> mp;
+        vector<bool> mp(26,false);
         
         int ans = 1;
         for(char c : s){
-            if(mp.count(c)){
+            if(mp[c-'a']){
+                mp.assign(26,false);
                 cout<<c<<" ";
-                mp.clear();
                 ans++;
             }
 
-            mp[c]++;
+            mp[c-'a'] = true;
         }
         return ans;
     }
