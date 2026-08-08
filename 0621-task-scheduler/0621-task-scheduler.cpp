@@ -55,12 +55,10 @@ multiset<pair<int,int>, comp> alpha;
             if(notFound){
                 ans++;
                 reduce(turn, n, -1);      // 26 rounds
-                cout<<"idle -> ";
                 continue;
             }
 
             ans++;
-            cout<<(char)(val+'A')<<" -> ";
             reduce(turn, n, val);         // 26 rounds
         }
 
