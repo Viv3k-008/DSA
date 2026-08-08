@@ -193,6 +193,7 @@ Here , I will push the codes.
 | [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Viv3k-008/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Viv3k-008/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -271,6 +272,7 @@ Here , I will push the codes.
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Viv3k-008/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -466,6 +468,7 @@ Here , I will push the codes.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Viv3k-008/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Viv3k-008/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1278-palindrome-partitioning-iii](https://github.com/Viv3k-008/DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Viv3k-008/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
