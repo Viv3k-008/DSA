@@ -107,6 +107,7 @@ Here , I will push the codes.
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -200,6 +201,7 @@ Here , I will push the codes.
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -239,6 +241,7 @@ Here , I will push the codes.
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Viv3k-008/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -814,6 +817,7 @@ Here , I will push the codes.
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viv3k-008/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Viv3k-008/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Viv3k-008/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -872,6 +876,7 @@ Here , I will push the codes.
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Viv3k-008/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Viv3k-008/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -893,6 +898,7 @@ Here , I will push the codes.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Viv3k-008/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Viv3k-008/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Viv3k-008/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
