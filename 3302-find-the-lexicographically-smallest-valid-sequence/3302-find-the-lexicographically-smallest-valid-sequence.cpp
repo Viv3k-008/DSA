@@ -12,7 +12,6 @@ public:
                 last[idx--] = i;
             }
         }
-        cout<<endl;
 
         idx = 0;
         bool changed = false;
