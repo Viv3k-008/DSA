@@ -9,7 +9,6 @@ public:
         for(char c : s){
             if(mp[c-'a']){
                 mp.assign(26,false);
-                cout<<c<<" ";
                 ans++;
             }
 
