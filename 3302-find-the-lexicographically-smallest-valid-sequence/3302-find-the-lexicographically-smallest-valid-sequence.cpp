@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Detailed explanation is in the NOTE tab (which is present after submit button)
     vector<int> validSequence(string word1, string word2) {
         int n = word1.size(), m = word2.size();
 
