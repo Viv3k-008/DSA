@@ -373,6 +373,7 @@ Here , I will push the codes.
 | [1043-partition-array-for-maximum-sum](https://github.com/Viv3k-008/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Viv3k-008/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Viv3k-008/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
@@ -480,6 +481,7 @@ Here , I will push the codes.
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Viv3k-008/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/Viv3k-008/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Viv3k-008/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -1092,4 +1094,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Viv3k-008/DSA/tree/master/0881-boats-to-save-people) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/Viv3k-008/DSA/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
