@@ -9,6 +9,7 @@ Here , I will push the codes.
 | [0001-two-sum](https://github.com/Viv3k-008/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Viv3k-008/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Viv3k-008/DSA/tree/master/0045-jump-game-ii) |
@@ -418,6 +419,7 @@ Here , I will push the codes.
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Viv3k-008/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Viv3k-008/DSA/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
