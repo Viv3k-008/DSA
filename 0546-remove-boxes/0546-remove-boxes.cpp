@@ -2,21 +2,16 @@ class Solution {
 public:
     vector<vector<vector<int>>> dp;
     int fn(int l, int r, int x, vector<int>& nums){
-        if(l == r){
-            return (x+1)*(x+1);
-        }
         if(l > r) return 0;
+        if(l == r) return (x+1)*(x+1);
 
         if(dp[l][r][x] != -1) return dp[l][r][x];
 
         int op1 = (x+1)*(x+1) + fn(l+1, r, 0, nums);
-
-        int op2 = -1e9;
+        int op2 = INT_MIN;
         for(int k = l+1; k <= r; k++){
-            if(nums[k] == nums[l]){
-                int temp = fn(l+1, k-1, 0, nums) + fn(k, r, x+1, nums);
-
-                op2 = max(op2, temp);
+            if(nums[l] == nums[k]){
+                op2 = max(op2, fn(l+1, k-1, 0, nums)+fn(k, r, x+1, nums));
             }
         }
 
