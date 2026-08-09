@@ -1,32 +1,31 @@
 class Solution {
 public:
     int ans = INT_MAX;
-    void fn(int i , vector<int>& cookies , vector<int>& store , int k){
-        if(i == cookies.size()){
-            int curAns = 0;
-            for(int t : store){
-                curAns = max(curAns , t);
+    void fn(int i, int n, vector<int>& store, vector<int>& c , int k){
+        if(i == n){
+            int cur = INT_MIN;
+            for(int c : store){
+                cur = max(cur, c);
             }
-            ans = min(ans , curAns);
+            ans = min(ans, cur);
             return;
         }
 
-        for(int child = 0 ; child < k ; child++){
-            store[child] += cookies[i];
 
-            if(store[child] < ans){
-                fn(i+1 , cookies , store , k);
+        for(int p = 0 ; p < k ; p++){
+            store[p] += c[i];
+            if(store[p] < ans){
+                fn(i+1, n, store, c, k);
             }
-            store[child] -= cookies[i];
 
-            // if (store[child] == 0) break;
+            store[p] -= c[i];
         }
-
     }
     int distributeCookies(vector<int>& cookies, int k) {
-        vector<int> temp(k , 0);
-        sort(cookies.rbegin() , cookies.rend());
-        fn(0 , cookies , temp , k);
+        int n = cookies.size();
+        sort(cookies.begin(),cookies.end());
+        vector<int> store(k, 0);
+        fn(0, n, store, cookies, k);
 
         return ans;
     }
