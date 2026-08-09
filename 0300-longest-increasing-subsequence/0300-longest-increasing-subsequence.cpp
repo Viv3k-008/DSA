@@ -3,24 +3,19 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> dp(n , 1);
+        vector<int> lis;
+        lis.push_back(nums[0]);
 
-        for(int i = 0 ; i < n ; i++){
-            for(int j = i-1 ; j >= 0 ; j--){
-                if(nums[i] > nums[j]){
-                    if(dp[j]+1 > dp[i]){
-                        dp[i] = dp[j]+1;
-                    }
-                }
+        for(int i = 1; i < n ; i++){
+            if(nums[i] > lis.back()){
+                lis.push_back(nums[i]);
+            }
+            else {
+                int idx = lower_bound(lis.begin(), lis.end(), nums[i]) - lis.begin();
+                lis[idx] = nums[i];
             }
         }
 
-        int ans = 0;
-
-        for(int i : dp){
-            ans = max(ans , i);
-        }
-
-        return ans;
+        return lis.size();
     }
 };
