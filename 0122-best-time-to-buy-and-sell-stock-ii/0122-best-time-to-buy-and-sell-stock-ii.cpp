@@ -11,14 +11,14 @@ public:
         int op = -1e9;
         if(buy){
             op = fn(i+1, n, p, false) - p[i];
-            op = max(op, fn(i+1, n, p, buy));
         }
         else{
             op = fn(i+1, n, p, true) + p[i];
-            op = max(op, fn(i+1, n, p, buy));
         }
 
-        return dp[i][buy] = op;
+        int skip = fn(i+1, n, p, buy);
+
+        return dp[i][buy] = max(op, skip);
 
     }
     int maxProfit(vector<int>& prices) {
