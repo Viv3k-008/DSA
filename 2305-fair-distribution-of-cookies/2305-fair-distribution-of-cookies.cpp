@@ -19,7 +19,7 @@ public:
             }
             store[child] -= cookies[i];
 
-            if (store[child] == 0) break;
+            // if (store[child] == 0) break;
         }
 
     }
