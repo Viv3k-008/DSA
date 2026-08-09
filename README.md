@@ -187,6 +187,7 @@ Here , I will push the codes.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Viv3k-008/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Viv3k-008/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viv3k-008/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -318,6 +319,7 @@ Here , I will push the codes.
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Viv3k-008/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Viv3k-008/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Viv3k-008/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
@@ -408,6 +410,7 @@ Here , I will push the codes.
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
@@ -461,6 +464,7 @@ Here , I will push the codes.
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Viv3k-008/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Viv3k-008/DSA/tree/master/0091-decode-ways) |
