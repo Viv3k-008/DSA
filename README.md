@@ -65,6 +65,7 @@ Here , I will push the codes.
 | [0741-cherry-pickup](https://github.com/Viv3k-008/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
+| [0845-longest-mountain-in-array](https://github.com/Viv3k-008/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
@@ -371,6 +372,7 @@ Here , I will push the codes.
 | [0746-min-cost-climbing-stairs](https://github.com/Viv3k-008/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Viv3k-008/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/Viv3k-008/DSA/tree/master/0799-champagne-tower) |
+| [0845-longest-mountain-in-array](https://github.com/Viv3k-008/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Viv3k-008/DSA/tree/master/0879-profitable-schemes) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
@@ -824,6 +826,7 @@ Here , I will push the codes.
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Viv3k-008/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Viv3k-008/DSA/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Viv3k-008/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -848,6 +851,7 @@ Here , I will push the codes.
 | [0392-is-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viv3k-008/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0845-longest-mountain-in-array](https://github.com/Viv3k-008/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Viv3k-008/DSA/tree/master/0881-boats-to-save-people) |
