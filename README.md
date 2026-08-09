@@ -1102,4 +1102,8 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Viv3k-008/DSA/tree/master/1092-shortest-common-supersequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
