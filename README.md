@@ -76,6 +76,7 @@ Here , I will push the codes.
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Viv3k-008/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -278,6 +279,7 @@ Here , I will push the codes.
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Viv3k-008/DSA/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -370,6 +372,7 @@ Here , I will push the codes.
 | [1048-longest-string-chain](https://github.com/Viv3k-008/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Viv3k-008/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Viv3k-008/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Viv3k-008/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Viv3k-008/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Viv3k-008/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -893,6 +896,7 @@ Here , I will push the codes.
 | [0304-range-sum-query-2d-immutable](https://github.com/Viv3k-008/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1056,6 +1060,7 @@ Here , I will push the codes.
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
@@ -1065,6 +1070,7 @@ Here , I will push the codes.
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Viv3k-008/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
@@ -1072,6 +1078,7 @@ Here , I will push the codes.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 ## Timsort
