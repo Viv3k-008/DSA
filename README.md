@@ -292,6 +292,7 @@ Here , I will push the codes.
 | [1266-minimum-time-visiting-all-points](https://github.com/Viv3k-008/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
@@ -393,6 +394,7 @@ Here , I will push the codes.
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Viv3k-008/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Viv3k-008/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Viv3k-008/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1083,6 +1085,7 @@ Here , I will push the codes.
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 ## Minimax
@@ -1093,6 +1096,7 @@ Here , I will push the codes.
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
@@ -1101,6 +1105,7 @@ Here , I will push the codes.
 | [0877-stone-game](https://github.com/Viv3k-008/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 ## Timsort
 |  |
@@ -1114,4 +1119,12 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Viv3k-008/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
