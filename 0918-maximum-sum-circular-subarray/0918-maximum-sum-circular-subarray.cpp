@@ -18,3 +18,7 @@ public:
         return maxSum > 0 ? max(maxSum, total-minSum) : maxSum; 
     }
 };
+/*
+ For more understanding refer this solution
+ https://leetcode.com/problems/maximum-sum-circular-subarray/solutions/178422/one-pass-by-lee215-navi
+*/
