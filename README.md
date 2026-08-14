@@ -102,6 +102,7 @@ Here , I will push the codes.
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Viv3k-008/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Viv3k-008/DSA/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
@@ -212,6 +213,7 @@ Here , I will push the codes.
 | [1382-balance-a-binary-search-tree](https://github.com/Viv3k-008/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Viv3k-008/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Viv3k-008/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -591,6 +593,7 @@ Here , I will push the codes.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Viv3k-008/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Viv3k-008/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Viv3k-008/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2405-optimal-partition-of-string](https://github.com/Viv3k-008/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -623,6 +626,7 @@ Here , I will push the codes.
 | [0621-task-scheduler](https://github.com/Viv3k-008/DSA/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Viv3k-008/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viv3k-008/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Viv3k-008/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viv3k-008/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/Viv3k-008/DSA/tree/master/3046-split-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Viv3k-008/DSA/tree/master/3312-sorted-gcd-pair-queries) |
