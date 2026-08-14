@@ -4,12 +4,7 @@ public:
         int n = s.size();
         unordered_map<char,int> mp;
 
-        for(char c : s) mp[c]++;
-
-        int total = mp.size();
-
         int l = 0, len = INT_MIN;
-        mp.clear();
 
         for(int r = 0 ; r < n ; r++){
             mp[s[r]]++;
