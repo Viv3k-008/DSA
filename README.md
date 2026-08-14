@@ -7,6 +7,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viv3k-008/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Viv3k-008/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Viv3k-008/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/0040-combination-sum-ii) |
@@ -476,6 +477,7 @@ Here , I will push the codes.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viv3k-008/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Viv3k-008/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Viv3k-008/DSA/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Viv3k-008/DSA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Viv3k-008/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Viv3k-008/DSA/tree/master/0072-edit-distance) |
@@ -1030,6 +1032,7 @@ Here , I will push the codes.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Viv3k-008/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Viv3k-008/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Viv3k-008/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Viv3k-008/DSA/tree/master/0208-implement-trie-prefix-tree) |
