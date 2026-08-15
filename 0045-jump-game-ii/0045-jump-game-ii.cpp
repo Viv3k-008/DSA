@@ -3,17 +3,14 @@ public:
     int jump(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> dp(n, 1e9);
+        vector<int> dp(n, 0);
 
-        dp[n-1] = 0;
-        for(int i = n-1; i >= 0 ; i--){
-            if(i == n-1) continue;
-
-           for(int k = 1 ; k <= nums[i]; k++){
-            dp[i] = min(dp[i], 1+dp[min(n-1,i+k)]);
-           }
-
-           dp[i] = min(dp[i], 1+dp[i+1]);
+        for(int i = n-2; i >= 0; i--){
+            int op = 1e9;
+            for(int j = i+1; j <= min(n-1, i+nums[i]) ; j++){
+                op = min(op, 1+dp[j]);
+            }
+            dp[i] = op;
         }
 
         return dp[0];
