@@ -1,41 +1,34 @@
 class Solution {
 public:
-    int check(vector<int>& nums , int cap){
-        int curSum = 0 , cuts = 0 , n = nums.size();
-
-        for(int i = 0 ; i < n ; i++){
-            if((curSum + nums[i]) <= cap){
-                curSum += nums[i];
+    int fn(int mid, vector<int>& nums){
+        int sum = 0, k = 0;
+        for(int i = 0 ; i < nums.size(); i++){
+            if(sum+nums[i] <= mid){
+                sum += nums[i];
             }
-            else {
-                cuts++;
-                curSum = nums[i];
+            else{
+                k++;
+                sum = nums[i];
             }
         }
-
-        return cuts+1;
+        return k+1;
     }
     int splitArray(vector<int>& nums, int k) {
+        int total = accumulate(nums.begin(),nums.end(),0);
+
         int n = nums.size();
 
-        int left = INT_MIN , right = 0;
+        int st = 0, ed = total, ans = -1;
+        for(int i : nums) st = max(st, i);
 
-        for(int i : nums){
-            left = max(left , i);
-            right += i;
-        }
+        while(st <= ed){
+            int mid = st+(ed-st)/2;
 
-
-        int ans = -1;
-
-        while(left <= right){
-            int mid = left + (right-left)/2;
-
-            if(check(nums , mid) <= k){
+            if(fn(mid, nums) <= k){
                 ans = mid;
-                right = mid-1;
+                ed = mid-1;
             }
-            else left = mid+1;
+            else st = mid+1;
         }
 
         return ans;
