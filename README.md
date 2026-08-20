@@ -76,6 +76,7 @@ Here , I will push the codes.
 | [0918-maximum-sum-circular-subarray](https://github.com/Viv3k-008/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Viv3k-008/DSA/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/Viv3k-008/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Viv3k-008/DSA/tree/master/0997-find-the-town-judge) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Viv3k-008/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Viv3k-008/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -657,6 +658,7 @@ Here , I will push the codes.
 | [0741-cherry-pickup](https://github.com/Viv3k-008/DSA/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Viv3k-008/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Viv3k-008/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Viv3k-008/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Viv3k-008/DSA/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Viv3k-008/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Viv3k-008/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -741,6 +743,7 @@ Here , I will push the codes.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Viv3k-008/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Viv3k-008/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viv3k-008/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Viv3k-008/DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Viv3k-008/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Viv3k-008/DSA/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
