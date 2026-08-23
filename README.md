@@ -223,6 +223,7 @@ Here , I will push the codes.
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Viv3k-008/DSA/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Viv3k-008/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Viv3k-008/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Viv3k-008/DSA/tree/master/1927-sum-game) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Viv3k-008/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Viv3k-008/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -311,6 +312,7 @@ Here , I will push the codes.
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/Viv3k-008/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Viv3k-008/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -523,6 +525,7 @@ Here , I will push the codes.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viv3k-008/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/Viv3k-008/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Viv3k-008/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -1144,6 +1147,7 @@ Here , I will push the codes.
 | [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/Viv3k-008/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
