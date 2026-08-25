@@ -12,36 +12,29 @@ public:
                 continue;
             }
             bool success = dfs(i , vis , ans);
-            if(!success){
+            if(success){
                 return vector<int> {};
             }
         }
-        // reverse(ans.begin() , ans.end());
         return ans;
     }
 
     bool dfs(int cur , vector<int>& vis , vector<int>& ans){
-        vis[cur] = 1;
 
-        // go to neighbours and stuff first
         for(int nb : adj[cur]){
+            if(vis[nb] == 1) return true;
+            if(vis[nb] == 2) continue;
 
-            if(vis[nb] == 0){    // vis[nb] -> 0 , tree edge
-                bool success = dfs(nb , vis , ans);
-                if(!success){
-                    return false;
-                }
+            vis[nb] = 1;
+            if(dfs(nb, vis, ans)){
+                return true;
             }
-            else if(vis[nb] == 1){  // vis[nb] -> 1 , means their is a back edge
-                return false;
-            }
-            //do nothing when vis[nb] -> 2 , forward edge or a cross edge
         }
 
 
         vis[cur] = 2;
         ans.push_back(cur);
-        return true;
+        return false;
     }
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
