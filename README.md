@@ -244,6 +244,7 @@ Here , I will push the codes.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viv3k-008/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Viv3k-008/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Viv3k-008/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -550,6 +551,7 @@ Here , I will push the codes.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Viv3k-008/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Viv3k-008/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Viv3k-008/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
@@ -636,6 +638,7 @@ Here , I will push the codes.
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Viv3k-008/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Viv3k-008/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Viv3k-008/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viv3k-008/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Viv3k-008/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -655,6 +658,7 @@ Here , I will push the codes.
 | [3312-sorted-gcd-pair-queries](https://github.com/Viv3k-008/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3583-count-special-triplets](https://github.com/Viv3k-008/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Viv3k-008/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viv3k-008/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -892,6 +896,7 @@ Here , I will push the codes.
 | [3499-maximize-active-section-with-trade-i](https://github.com/Viv3k-008/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Viv3k-008/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Viv3k-008/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Viv3k-008/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viv3k-008/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/Viv3k-008/DSA/tree/master/3799-word-squares-ii) |
 ## Two Pointers
