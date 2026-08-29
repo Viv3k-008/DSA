@@ -134,6 +134,7 @@ Here , I will push the codes.
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/Viv3k-008/DSA/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viv3k-008/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Viv3k-008/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Viv3k-008/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Viv3k-008/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -281,6 +282,7 @@ Here , I will push the codes.
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viv3k-008/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Viv3k-008/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viv3k-008/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1043,6 +1045,7 @@ Here , I will push the codes.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Viv3k-008/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Viv3k-008/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viv3k-008/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Viv3k-008/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
