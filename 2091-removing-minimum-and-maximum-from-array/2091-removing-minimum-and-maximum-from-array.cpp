@@ -11,7 +11,7 @@ public:
 
         int ways = 1e9;
         pair<int,int> idx = {-1,-1};
-        // left to right
+       
         for(int i = 0 ; i < n ; i++){
             if(nums[i] == num.first){
                 idx.first = i;
