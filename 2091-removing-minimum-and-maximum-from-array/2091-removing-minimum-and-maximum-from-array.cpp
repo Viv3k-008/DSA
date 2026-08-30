@@ -10,66 +10,20 @@ public:
         }
 
         int ways = 1e9;
-
-        int cnt = 0;
-        pair<bool,bool> flag = {false,false};
+        pair<int,int> idx = {-1,-1};
         // left to right
         for(int i = 0 ; i < n ; i++){
             if(nums[i] == num.first){
-                flag.first = true;
+                idx.first = i;
             }
             else if(nums[i] == num.second){
-                flag.second = true;
+                idx.second = i;
             }
-            cnt++;
-            if(flag.first && flag.second) break;
+            if(idx.first != -1 && idx.second != -1) break;
         }
-       
-        ways = cnt;
-
-        // right to left
-        cnt = 0;
-        flag = {false,false};
-        for(int i = n-1; i >= 0 ; i--){
-            if(nums[i] == num.first){
-                flag.first = true;
-            }
-            else if(nums[i] == num.second){
-                flag.second = true;
-            }
-            cnt++;
-            if(flag.first && flag.second) break;
-        }
-       
-        ways = min(ways, cnt);
-
-        // both sides
-        cnt = 0;
-        flag = {false,false};
-        int i = 0;
-        while(i < n){
-            if(nums[i] != num.first && nums[i] != num.second){
-                i++;
-                cnt++;
-            }
-            else {
-                cnt++;
-                break;
-            }
-        }
-        i = n-1;
-        while(i >= 0){
-            if(nums[i] != num.first && nums[i] != num.second){
-                i--;
-                cnt++;
-            }
-            else {
-                cnt++;
-                break;
-            }
-        }
-        
-        ways = min(ways, cnt);
+        int l = min(idx.first,idx.second);
+        int r = max(idx.first,idx.second);
+        ways = min({r+1, n-l, l+1+n-r});
 
 
         return ways;
