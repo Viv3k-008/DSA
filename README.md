@@ -62,6 +62,7 @@ Here , I will push the codes.
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Viv3k-008/DSA/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/Viv3k-008/DSA/tree/master/0546-remove-boxes) |
+| [0605-can-place-flowers](https://github.com/Viv3k-008/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Viv3k-008/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Viv3k-008/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Viv3k-008/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -216,6 +217,7 @@ Here , I will push the codes.
 | [0410-split-array-largest-sum](https://github.com/Viv3k-008/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Viv3k-008/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viv3k-008/DSA/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Viv3k-008/DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Viv3k-008/DSA/tree/master/0621-task-scheduler) |
 | [0870-advantage-shuffle](https://github.com/Viv3k-008/DSA/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Viv3k-008/DSA/tree/master/0881-boats-to-save-people) |
