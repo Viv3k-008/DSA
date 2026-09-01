@@ -1,22 +1,16 @@
 public class Solution {
     public bool IsAnagram(string s, string t) {
         if(s.Length != t.Length) return false;
-        Dictionary<char,int> mp = new Dictionary<char,int>();
+        
+        int[] cnt = new int[26];
 
-        foreach(char c in s){
-            if(mp.ContainsKey(c)){
-                mp[c]++;
-            }
-            else mp[c] = 1;
+        for(int i = 0;  i < s.Length; i++){
+            cnt[s[i]-'a']++;
+            cnt[t[i]-'a']--;
         }
 
-        foreach(char c in t){
-            if(!mp.ContainsKey(c)){
-                return false;
-            }
-
-            mp[c]--;
-            if(mp[c] < 0){
+        foreach(int freq in cnt){
+            if(freq != 0){
                 return false;
             }
         }
