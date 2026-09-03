@@ -3,9 +3,10 @@ public:
     bool uniformArray(vector<int>& nums1) {
         int n = nums1.size();
 
-        sort(nums1.begin(), nums1.end());
+        int smallest = 1e9;
+        for(int i : nums1) smallest = min(smallest, i);
 
-        if(nums1[0]%2) return true;
+        if(smallest%2) return true;
         // both even or odd can be converted to different parity by substracting with odd.
         // if smallest number is odd then we can convert every number to odd.
 
