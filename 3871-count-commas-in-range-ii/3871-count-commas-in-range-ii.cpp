@@ -9,7 +9,6 @@ public:
             string s = to_string(counts[i]);
             int comas = (s.size()%3 > 0)? s.size()/3 : (s.size()/3)-1;
             if(n > counts[i]-1){
-                cout<<counts[i]<<endl;
                 ans += 1LL*(n-(counts[i]-1))*comas;
                 n = counts[i]-1;
             }
