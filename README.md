@@ -459,6 +459,7 @@ Here , I will push the codes.
 | [0021-merge-two-sorted-lists](https://github.com/Viv3k-008/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Viv3k-008/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Viv3k-008/DSA/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Viv3k-008/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Viv3k-008/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Viv3k-008/DSA/tree/master/0509-fibonacci-number) |
@@ -1135,6 +1136,7 @@ Here , I will push the codes.
 | [0141-linked-list-cycle](https://github.com/Viv3k-008/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Viv3k-008/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Viv3k-008/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Viv3k-008/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viv3k-008/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Viv3k-008/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
