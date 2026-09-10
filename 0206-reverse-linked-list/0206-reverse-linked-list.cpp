@@ -10,20 +10,35 @@
  */
 class Solution {
 public:
+    ListNode* ans = nullptr;
+    void fn(ListNode* head, ListNode* prev){
+        if(!head->next){
+            head->next = prev;
+            ans = head;
+            return;
+        }
+        fn(head->next, head);
+        head->next = prev;
+    }
     ListNode* reverseList(ListNode* head) {
         if(!head) return head;
-        ListNode* prev = nullptr;
-        ListNode* cur = head;
-        ListNode* next = head->next;
+        // ListNode* prev = nullptr;
+        // ListNode* cur = head;
+        // ListNode* next = head->next;
 
-        while(cur != nullptr){
-            cur->next = prev;
+        // while(cur != nullptr){
+        //     cur->next = prev;
             
-            prev = cur;
-            cur = next;
-            if(next) next = next->next;
-        }
+        //     prev = cur;
+        //     cur = next;
+        //     if(next) next = next->next;
+        // }
 
-        return prev;
+        // return prev;
+
+        ListNode* temp = head;
+        fn(temp, nullptr);
+
+        return ans;
     }
 };
