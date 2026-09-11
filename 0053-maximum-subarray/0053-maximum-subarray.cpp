@@ -4,9 +4,9 @@ public:
         int n = nums.size();
 
         int sum = nums[0], ans = nums[0];
-        for(int i = 1 ; i < n ; i++){
-            sum = max(sum+nums[i], nums[i]);
-            ans = max(sum, ans);
+        for(int i = 1; i < n ; i++){
+            sum = max(sum+nums[i],nums[i]);
+            ans = max(ans, sum);
         }
         return ans;
     }
