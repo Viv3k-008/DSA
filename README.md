@@ -251,6 +251,7 @@ Here , I will push the codes.
 | [2405-optimal-partition-of-string](https://github.com/Viv3k-008/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viv3k-008/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Viv3k-008/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Viv3k-008/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/Viv3k-008/DSA/tree/master/2611-mice-and-cheese) |
@@ -452,6 +453,7 @@ Here , I will push the codes.
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Viv3k-008/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2305-fair-distribution-of-cookies](https://github.com/Viv3k-008/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/Viv3k-008/DSA/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viv3k-008/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Viv3k-008/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Viv3k-008/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Viv3k-008/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -561,6 +563,7 @@ Here , I will push the codes.
 | [2211-count-collisions-on-a-road](https://github.com/Viv3k-008/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Viv3k-008/DSA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2405-optimal-partition-of-string](https://github.com/Viv3k-008/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viv3k-008/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Viv3k-008/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Viv3k-008/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -959,6 +962,7 @@ Here , I will push the codes.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viv3k-008/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Viv3k-008/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Viv3k-008/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Viv3k-008/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Viv3k-008/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viv3k-008/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
