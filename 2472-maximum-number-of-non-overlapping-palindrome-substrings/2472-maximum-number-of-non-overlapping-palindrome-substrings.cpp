@@ -17,7 +17,7 @@ public:
 
         int op1 = 0;
         for(int j = i+k-1; j < n ; j++){
-            if(j-i+1 >= k && check[i][j]){
+            if(check[i][j]){
                 op1 = max(op1, 1 + fn(j+1, k, n, s, check));
             }
         }
