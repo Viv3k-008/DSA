@@ -1,39 +1,24 @@
 class Foo {
 public:
-    int turn;
-    condition_variable cv;
-    mutex mtx;
+    binary_semaphore semaSecond{0};
+    binary_semaphore semaThird{0};
     Foo() {
-        turn = 0;
+        
     }
 
     void first(function<void()> printFirst) {
-        unique_lock<mutex> lock(mtx);
-        while(turn%3 != 0){
-            cv.wait(lock);
-        }
         printFirst();
-        turn++;
-        cv.notify_all();
+        semaSecond.release();
     }
 
     void second(function<void()> printSecond) {
-        unique_lock<mutex> lock(mtx);
-        while(turn%3 != 1){
-            cv.wait(lock);
-        }
+        semaSecond.acquire();
         printSecond();
-        turn++;
-        cv.notify_all();
+        semaThird.release();
     }
 
     void third(function<void()> printThird) {
-        unique_lock<mutex> lock(mtx);
-        while(turn%3 != 2){
-            cv.wait(lock);
-        }
+        semaThird.acquire();
         printThird();
-        turn++;
-        cv.notify_all();
     }
 };
