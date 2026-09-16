@@ -10,11 +10,10 @@ public:
 
         if(dp[i][k][st] != -1) return dp[i][k][st];
 
-        int Fcut = (st == false)? fn(i+1, n, k, true) : 0;
-        int Scut = (st == true)? fn(i+1, n, k-1, false) + fn(i+1, n, k-1, true): 0;
-        int skip = fn(i+1, n, k, st);
+        int Fcut = (st == false)? fn(i+1, n, k, true) + fn(i+1, n, k, false) : 0;
+        int Scut = (st == true)? fn(i, n, k-1, false) + fn(i+1, n, k, true): 0;
 
-        return dp[i][k][st] = ((Fcut+Scut)%MOD+skip)%MOD;
+        return dp[i][k][st] = (Fcut+Scut)%MOD;
     }
     int numberOfSets(int n, int k) {
         dp.resize(n+1, vector<vector<int>>(k+1, vector<int>(2, -1)));
