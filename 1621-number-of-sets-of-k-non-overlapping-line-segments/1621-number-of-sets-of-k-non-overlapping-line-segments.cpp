@@ -3,11 +3,10 @@ public:
     int MOD = 1e9+7;
     vector<vector<vector<int>>> dp;
     int fn(int i, int n, int k , bool st){
-        if(i == n && k == 0 && st == false) return 1;
-        else if(i >= n) return 0;
-        
-        if(k == 0 && st == false) return 1;
-        if(k <= 0) return 0;
+        if(i == n && k == 0 && !st) return 1;
+        if(i >= n) return 0;
+
+        if(k < 0) return 0;
 
         if(dp[i][k][st] != -1) return dp[i][k][st];
 
