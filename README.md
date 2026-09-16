@@ -334,6 +334,7 @@ Here , I will push the codes.
 | [1406-stone-game-iii](https://github.com/Viv3k-008/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viv3k-008/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/Viv3k-008/DSA/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -445,6 +446,7 @@ Here , I will push the codes.
 | [1510-stone-game-iv](https://github.com/Viv3k-008/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Viv3k-008/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Viv3k-008/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viv3k-008/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viv3k-008/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1690-stone-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1690-stone-game-vii) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
@@ -1029,6 +1031,7 @@ Here , I will push the codes.
 | [0903-valid-permutations-for-di-sequence](https://github.com/Viv3k-008/DSA/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1140-stone-game-ii](https://github.com/Viv3k-008/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viv3k-008/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viv3k-008/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Viv3k-008/DSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/Viv3k-008/DSA/tree/master/1872-stone-game-viii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Viv3k-008/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1125,6 +1128,7 @@ Here , I will push the codes.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Viv3k-008/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Viv3k-008/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Viv3k-008/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Viv3k-008/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
