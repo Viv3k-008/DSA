@@ -579,6 +579,7 @@ Here , I will push the codes.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Viv3k-008/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Viv3k-008/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Viv3k-008/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Viv3k-008/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Viv3k-008/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Viv3k-008/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Viv3k-008/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -608,6 +609,7 @@ Here , I will push the codes.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Viv3k-008/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Viv3k-008/DSA/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Viv3k-008/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Viv3k-008/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Viv3k-008/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Viv3k-008/DSA/tree/master/3838-weighted-word-mapping) |
