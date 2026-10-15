@@ -142,6 +142,7 @@ Here , I will push the codes.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/Viv3k-008/DSA/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Viv3k-008/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Viv3k-008/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Viv3k-008/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viv3k-008/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Viv3k-008/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -662,6 +663,7 @@ Here , I will push the codes.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Viv3k-008/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/Viv3k-008/DSA/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Viv3k-008/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Viv3k-008/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Viv3k-008/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Viv3k-008/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Viv3k-008/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1025,6 +1027,7 @@ Here , I will push the codes.
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Viv3k-008/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Viv3k-008/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Viv3k-008/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Viv3k-008/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1130,6 +1133,7 @@ Here , I will push the codes.
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Viv3k-008/DSA/tree/master/0307-range-sum-query-mutable) |
 | [2424-longest-uploaded-prefix](https://github.com/Viv3k-008/DSA/tree/master/2424-longest-uploaded-prefix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Viv3k-008/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
